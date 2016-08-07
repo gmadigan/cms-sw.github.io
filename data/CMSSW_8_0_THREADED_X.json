@@ -1,0 +1,414 @@
+{
+    "base_branch": "CMSSW_8_0_X", 
+    "release_name": "CMSSW_8_0_THREADED_X", 
+    "comparisons": [
+        {
+            "addons": [], 
+            "comp_baseline_state": "errors", 
+            "builds": [], 
+            "valgrind": "not-found", 
+            "compared_tags": "CMSSW_8_0_THREADED_X_2016-07-24-0000-->CMSSW_8_0_THREADED_X_2016-07-24-2300", 
+            "dqm_tests": "inprogress", 
+            "utests": [], 
+            "cmsdistTags": {}, 
+            "igprof": "not-found", 
+            "relvals": [], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "comp_baseline": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_8_0_THREADED_X_2016-07-24-2300", 
+            "tests_archs": [], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "e69a08bebfff869d65eff3e59f09fa509af5db85", 
+                    "title": "add PS column monitoring", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/14974", 
+                    "number": "14974", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mtosi"
+                }, 
+                {
+                    "hash": "6fb2bdc5d1f5f45fe25301f9e1dc5067afdd5ed6", 
+                    "title": "remove HcalReLabel customization for es_hardcode", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15252", 
+                    "number": "15252", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "kpedro88"
+                }, 
+                {
+                    "hash": "7657fa9622739049c45209e79914e9e4e439f7e2", 
+                    "title": "re-anable specific 3D layers counting for HLT (no hit splitting)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/14996", 
+                    "number": "14996", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mtosi"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [], 
+            "comp_baseline_state": "errors", 
+            "builds": [], 
+            "valgrind": "not-found", 
+            "compared_tags": "CMSSW_8_0_THREADED_X_2016-07-24-2300-->CMSSW_8_0_THREADED_X_2016-07-26-2300", 
+            "dqm_tests": "inprogress", 
+            "utests": [], 
+            "cmsdistTags": {}, 
+            "igprof": "not-found", 
+            "relvals": [], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "comp_baseline": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_8_0_THREADED_X_2016-07-26-2300", 
+            "tests_archs": [], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "abbf5ccbfb18d85146735ab099b30759b9e24082", 
+                    "title": "Improve Strip DCS O2O monitoring.", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15223", 
+                    "number": "15223", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "hqucms"
+                }, 
+                {
+                    "hash": "c7a2488539e4fe99a20ffbe5b638046d1c16c351", 
+                    "title": "Backport of #14179: Speed up Jet Producer for HLT", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15226", 
+                    "number": "15226", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "makortel"
+                }, 
+                {
+                    "hash": "8c2d1cfa65f4c834ed7e89261662758c76fe2856", 
+                    "title": "CompHEP interface to Pythia8", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/13077", 
+                    "number": "13077", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "alexeybaskakov"
+                }, 
+                {
+                    "hash": "0b11d864a1b00598d949bb530ef6ec607e925d82", 
+                    "title": "Backport of #13959: SpeedUp ParticleFlow for HLT; and #14070: remove memory fence", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15240", 
+                    "number": "15240", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "makortel"
+                }, 
+                {
+                    "hash": "41cddf8ad4b476cce882fa6a9f83ea138906589c", 
+                    "title": "Backport HIP mitigation to 80X", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15251", 
+                    "number": "15251", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "makortel"
+                }, 
+                {
+                    "hash": "d55f61fb132e567e1bc1c95d0590c13e689a3a86", 
+                    "title": "Backport of #14048: Speedup ECAL (for HLT)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15231", 
+                    "number": "15231", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "makortel"
+                }, 
+                {
+                    "hash": "c825c4f5293abd6dafbeb7366d4eb96a9a1e589e", 
+                    "title": "Revamping ALCARECOTkAlCosmicsInCollisions with cosmicDCTracks (backport of #15207)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15255", 
+                    "number": "15255", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mmusich"
+                }, 
+                {
+                    "hash": "140f3fbcff18b8a394223ae07050d3f34a129a6e", 
+                    "title": "L1t dqm cmssw 8 0 10 patch2 ugmt esmaeel", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/14929", 
+                    "number": "14929", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "EsmaeelEskandari"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [], 
+            "comp_baseline_state": "errors", 
+            "builds": [], 
+            "valgrind": "not-found", 
+            "compared_tags": "CMSSW_8_0_THREADED_X_2016-07-26-2300-->CMSSW_8_0_THREADED_X_2016-07-27-2300", 
+            "dqm_tests": "inprogress", 
+            "utests": [], 
+            "cmsdistTags": {
+                "slc6_amd64_gcc530": "IB/CMSSW_8_0_THREADED_X_2016-07-27-2300/slc6_amd64_gcc530"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "comp_baseline": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_8_0_THREADED_X_2016-07-27-2300", 
+            "tests_archs": [], 
+            "RVExceptions": null, 
+            "merged_prs": [], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [], 
+            "comp_baseline_state": "errors", 
+            "builds": [], 
+            "valgrind": "not-found", 
+            "compared_tags": "CMSSW_8_0_THREADED_X_2016-07-27-2300-->CMSSW_8_0_THREADED_X_2016-07-28-1100", 
+            "dqm_tests": "inprogress", 
+            "utests": [], 
+            "cmsdistTags": {
+                "slc6_amd64_gcc530": "IB/CMSSW_8_0_THREADED_X_2016-07-28-1100/slc6_amd64_gcc530"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "comp_baseline": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_8_0_THREADED_X_2016-07-28-1100", 
+            "tests_archs": [], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "b0e694ac3985f9ba00da09eb5fe9f44bbba0804c", 
+                    "title": "add timing VS lumi (for HLT monitoring) ", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15169", 
+                    "number": "15169", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mtosi"
+                }, 
+                {
+                    "hash": "b4fddd00015a7241e4856a81591c7d028539f9c5", 
+                    "title": "retuning FPix nclusters limit", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15274", 
+                    "number": "15274", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fioriNTU"
+                }, 
+                {
+                    "hash": "08d9ba7d8226479dabdbee3bb46a8a035ab93a54", 
+                    "title": "added cluster position plot in the AlCa DQM application", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15268", 
+                    "number": "15268", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "suchandradutta"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [], 
+            "comp_baseline_state": "errors", 
+            "builds": [], 
+            "valgrind": "not-found", 
+            "compared_tags": "CMSSW_8_0_THREADED_X_2016-07-28-1100-->CMSSW_8_0_THREADED_X_2016-07-29-2300", 
+            "dqm_tests": "found", 
+            "utests": [], 
+            "cmsdistTags": {}, 
+            "igprof": "not-found", 
+            "relvals": [], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "comp_baseline": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_8_0_THREADED_X_2016-07-29-2300", 
+            "tests_archs": [], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "2f3adccf2582e337b83a761abca890ee8d184f48", 
+                    "title": "bsunanda:Run2-alca54 Backport HcalIsolatedBunch from 8_1_X", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15292", 
+                    "number": "15292", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "bsunanda"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.0.THREADED-sun-00/CMSSW_8_0_THREADED_X_2016-07-31-0000/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.0.THREADED-sun-00/CMSSW_8_0_THREADED_X_2016-07-31-0000/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 14, 
+                        "ignoreWarning": 281
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "compared_tags": "CMSSW_8_0_THREADED_X_2016-07-29-2300-->CMSSW_8_0_THREADED_X_2016-07-31-0000", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.0.THREADED-sun-00/CMSSW_8_0_THREADED_X_2016-07-31-0000/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "4"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc6_amd64_gcc530": "IB/CMSSW_8_0_THREADED_X_2016-07-31-0000/slc6_amd64_gcc530"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.0.THREADED-sun-00/CMSSW_8_0_THREADED_X_2016-07-31-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1029, 
+                        "num_failed": 87
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "comp_baseline": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_8_0_THREADED_X_2016-07-31-0000", 
+            "tests_archs": [
+                "slc6_amd64_gcc530"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/thu/8.0.THREADED-thu-11/CMSSW_8_0_THREADED_X_2016-08-04-1100/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/thu/8.0.THREADED-thu-11/CMSSW_8_0_THREADED_X_2016-08-04-1100/new/logAnalysis.pkl", 
+                    "details": {}
+                }
+            ], 
+            "valgrind": "not-found", 
+            "compared_tags": "CMSSW_8_0_THREADED_X_2016-07-31-0000-->CMSSW_8_0_THREADED_X_2016-08-04-1100", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/thu/8.0.THREADED-thu-11/CMSSW_8_0_THREADED_X_2016-08-04-1100/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "5"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc6_amd64_gcc530": "IB/CMSSW_8_0_THREADED_X_2016-07-31-0000/slc6_amd64_gcc530"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/thu/8.0.THREADED-thu-11/CMSSW_8_0_THREADED_X_2016-08-04-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 628, 
+                        "num_failed": 172
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "comp_baseline": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_8_0_THREADED_X_2016-08-04-1100", 
+            "tests_archs": [
+                "slc6_amd64_gcc530"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "93f88dde5720c971597125a3c98415ae6dc70921", 
+                    "title": "Revert \"Updating Trigger Path and Fixing for Empty Histograms for single lept\"", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15365", 
+                    "number": "15365", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cms-sw"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [], 
+            "comp_baseline_state": "errors", 
+            "builds": [], 
+            "valgrind": "not-found", 
+            "compared_tags": "CMSSW_8_0_THREADED_X_2016-08-04-1100-->CMSSW_8_0_X", 
+            "dqm_tests": "inprogress", 
+            "utests": [], 
+            "cmsdistTags": {}, 
+            "igprof": "not-found", 
+            "relvals": [], 
+            "static_checks": "not-found", 
+            "isIB": false, 
+            "hlt_tests": "not-found", 
+            "comp_baseline": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_8_0_X", 
+            "tests_archs": [], 
+            "RVExceptions": null, 
+            "merged_prs": [], 
+            "fwlite": []
+        }
+    ]
+}
