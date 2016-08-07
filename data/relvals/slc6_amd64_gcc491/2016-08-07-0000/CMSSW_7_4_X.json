@@ -19,5 +19,376 @@
                 "status": "NOTRUN"
             }
         ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.17",
+        "name": "RunMinBias2011A+RunMinBias2011A+HLTD+RECODreHLT+HARVESTDreHLT+SKIMDreHLT",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.23",
+        "name": "ValSkim2011A+ValSkim2011A+HLTDSKIM+RECODreHLT+HARVESTDreHLT",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.25",
+        "name": "WElSkim2011A+WElSkim2011A+HLTDSKIM+RECODreHLT+HARVESTDreHLT",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.28",
+        "name": "HighMet2011A+HighMet2011A+HLTDSKIM+RECODreHLT+HARVESTDreHLT",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.37",
+        "name": "ZMuSkim2011B+ZMuSkim2011B+HLTDSKIM+RECODreHLT+HARVESTDreHLT",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.41",
+        "name": "RunTau2012A+RunTau2012A+HLTD+RECODreHLT+HARVESTDreHLT",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.44",
+        "name": "RunElectron2012A+RunElectron2012A+HLTD+RECODreHLT+HARVESTDreHLT",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.58",
+        "name": "WElSkim2012B+WElSkim2012B+HLTDSKIM+RECODreHLT+HARVESTDreHLT",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.71",
+        "name": "RunMinBias2012D+RunMinBias2012D+HLTD+RECODreHLT+HARVESTDreHLT",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "9.0",
+        "name": "Higgs200ChargedTaus+Higgs200ChargedTausINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "24.0",
+        "name": "TTbarLepton+TTbarLeptonINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "26.0",
+        "name": "WE+WEINPUT+DIGI+RECOAlCaEle+HARVEST",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "38.0",
+        "name": "QCD_FlatPt_15_3000HS+QCD_FlatPt_15_3000HSINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "107.0",
+        "name": "QQH120Inv+QQH120Inv+DIGI+RECO",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "117.0",
+        "name": "QCD_Pt_120_170+QCD_Pt_120_170+DIGI+RECO",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "133.0",
+        "name": "RSGrav+RSGrav+DIGI+RECO",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.803",
+        "name": "RunDoubleMuon2015C+RunDoubleMuon2015C+HLTDR225ns+RECODR225nsreHLT+HARVESTDR2reHLT",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "135.7",
+        "name": "H130GGgluonfusion_13+H130GGgluonfusionFS_13+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1301.0",
+        "name": "ProdMinBias_13+ProdMinBias_13+DIGIUP15PROD1+RECOPRODUP15",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1311.0",
+        "name": "MinBias_13+MinBias_13INPUT+DIGIUP15+RECOMINUP15+HARVESTUP15+ALCAMIN",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
     }
 ]
