@@ -18,7 +18,7 @@
         }, 
         "slc7_amd64_gcc530": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_8_1_X_2016-08-06-1100"
+            "latest_IB": "CMSSW_8_1_X_2016-08-07-0000"
         }
     }, 
     "all_archs": [
