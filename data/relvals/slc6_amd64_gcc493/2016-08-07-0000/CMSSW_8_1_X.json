@@ -1,0 +1,41 @@
+[
+    {
+        "exitcode": 0,
+        "id": "5.7",
+        "name": "H130GGgluonfusion+H130GGgluonfusionFS+HARVESTFS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 112
+            },
+            {
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 5
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "110.0",
+        "name": "SingleTauPt50Pythia+SingleTauPt50Pythia+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 27
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 65
+            },
+            {
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 503
+            }
+        ]
+    }
+]
