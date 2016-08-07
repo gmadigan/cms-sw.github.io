@@ -6452,8 +6452,8 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/8.1-sun-00/CMSSW_8_1_X_2016-08-07-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 95, 
-                        "num_failed": 1
+                        "num_passed": 122, 
+                        "num_failed": 2
                     }
                 }, 
                 {
@@ -6573,7 +6573,7 @@
                 }
             ], 
             "compared_tags": "CMSSW_8_1_X_2016-08-07-0000-->CMSSW_8_1_X_2016-08-07-1100", 
-            "valgrind": "inprogress", 
+            "valgrind": "found", 
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc530", 
@@ -6614,7 +6614,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1100, 
+                        "num_passed": 1168, 
                         "num_failed": 7
                     }
                 }, 
@@ -6624,8 +6624,8 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc493/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 864, 
-                        "num_failed": 6
+                        "num_passed": 903, 
+                        "num_failed": 9
                     }
                 }, 
                 {
@@ -6634,8 +6634,8 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc600/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 960, 
-                        "num_failed": 5
+                        "num_passed": 1071, 
+                        "num_failed": 8
                     }
                 }
             ], 
