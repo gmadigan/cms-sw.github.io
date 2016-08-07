@@ -837,7 +837,26 @@
             "release_name": "CMSSW_8_1_ROOT64_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "d654f7e2f00d9a80b576e180d61a39b8444e8867", 
+                    "title": "remove HcalCovarianceMatrix object entirely", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15363", 
+                    "number": "15363", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": true, 
+                    "author_login": "kpedro88"
+                }, 
+                {
+                    "hash": "7d532b0ae422e12ba1d89a24d3d06e2556dccd45", 
+                    "title": "Asynchronous Prefetch", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15367", 
+                    "number": "15367", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Dr15Jones"
+                }
+            ], 
             "fwlite": []
         }
     ]

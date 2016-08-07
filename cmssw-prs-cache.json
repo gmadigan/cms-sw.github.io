@@ -14538,12 +14538,26 @@
     "title": "Update cfg files for offline analysis", 
     "user_ref": "UpdateOccupancyCFG"
   }, 
+  "15363": {
+    "author": "kpedro88", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "d654f7e2f00d9a80b576e180d61a39b8444e8867", 
+    "title": "remove HcalCovarianceMatrix object entirely", 
+    "user_ref": "HcalRemoveCovarianceObject"
+  }, 
   "15365": {
     "author": "cms-sw", 
     "branch": "CMSSW_8_0_X", 
     "hash": "93f88dde5720c971597125a3c98415ae6dc70921", 
     "title": "Revert \"Updating Trigger Path and Fixing for Empty Histograms for single lept\"", 
     "user_ref": "revert-14886-topHLTDQM_Update_Jun15"
+  }, 
+  "15367": {
+    "author": "Dr15Jones", 
+    "branch": "CMSSW_8_1_ROOT64_X", 
+    "hash": "7d532b0ae422e12ba1d89a24d3d06e2556dccd45", 
+    "title": "Asynchronous Prefetch", 
+    "user_ref": "prefetchConcurrently_DEVEL"
   }, 
   "15370": {
     "author": "davidlange6", 

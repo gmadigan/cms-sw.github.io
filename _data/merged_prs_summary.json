@@ -15136,7 +15136,17 @@
                 "release_name": "CMSSW_8_1_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
-                "merged_prs": [], 
+                "merged_prs": [
+                    {
+                        "hash": "d654f7e2f00d9a80b576e180d61a39b8444e8867", 
+                        "title": "remove HcalCovarianceMatrix object entirely", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15363", 
+                        "number": "15363", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "kpedro88"
+                    }
+                ], 
                 "fwlite": []
             }
         ]
@@ -15980,7 +15990,26 @@
                 "release_name": "CMSSW_8_1_ROOT64_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
-                "merged_prs": [], 
+                "merged_prs": [
+                    {
+                        "hash": "d654f7e2f00d9a80b576e180d61a39b8444e8867", 
+                        "title": "remove HcalCovarianceMatrix object entirely", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15363", 
+                        "number": "15363", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": true, 
+                        "author_login": "kpedro88"
+                    }, 
+                    {
+                        "hash": "7d532b0ae422e12ba1d89a24d3d06e2556dccd45", 
+                        "title": "Asynchronous Prefetch", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15367", 
+                        "number": "15367", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "Dr15Jones"
+                    }
+                ], 
                 "fwlite": []
             }
         ]
@@ -17128,7 +17157,17 @@
                 "release_name": "CMSSW_8_1_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
-                "merged_prs": [], 
+                "merged_prs": [
+                    {
+                        "hash": "d654f7e2f00d9a80b576e180d61a39b8444e8867", 
+                        "title": "remove HcalCovarianceMatrix object entirely", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15363", 
+                        "number": "15363", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "kpedro88"
+                    }
+                ], 
                 "fwlite": []
             }
         ]
@@ -17973,7 +18012,17 @@
                 "release_name": "CMSSW_8_1_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
-                "merged_prs": [], 
+                "merged_prs": [
+                    {
+                        "hash": "d654f7e2f00d9a80b576e180d61a39b8444e8867", 
+                        "title": "remove HcalCovarianceMatrix object entirely", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15363", 
+                        "number": "15363", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "kpedro88"
+                    }
+                ], 
                 "fwlite": []
             }
         ]
@@ -24526,8 +24575,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc600/www/sun/8.1-sun-00/CMSSW_8_1_X_2016-08-07-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1027, 
-                            "num_failed": 1
+                            "num_passed": 1172, 
+                            "num_failed": 4
                         }
                     }
                 ], 
@@ -24576,7 +24625,17 @@
                 "release_name": "CMSSW_8_1_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
-                "merged_prs": [], 
+                "merged_prs": [
+                    {
+                        "hash": "d654f7e2f00d9a80b576e180d61a39b8444e8867", 
+                        "title": "remove HcalCovarianceMatrix object entirely", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15363", 
+                        "number": "15363", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "kpedro88"
+                    }
+                ], 
                 "hlt_tests": "inprogress"
             }
         ]
