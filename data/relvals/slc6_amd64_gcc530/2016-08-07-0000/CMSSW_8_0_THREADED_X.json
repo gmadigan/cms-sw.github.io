@@ -901,6 +901,38 @@
     },
     {
         "exitcode": 0,
+        "id": "4.17",
+        "name": "RunMinBias2011A+RunMinBias2011A+HLTD+RECODR1reHLT+HARVESTDR1reHLT+SKIMDreHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 186
+            },
+            {
+                "errors": 346,
+                "status": "PASSED",
+                "warnings": 3842
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 370
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.22",
         "name": "RunCosmics2011A+RunCosmics2011A+RECOCOSD+ALCACOSD+SKIMCOSD+HARVESTDC",
         "steps": [
@@ -2228,6 +2260,33 @@
     },
     {
         "exitcode": 0,
+        "id": "17.0",
+        "name": "SingleElectronPt35+SingleElectronPt35INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 796
+            },
+            {
+                "errors": 200,
+                "status": "PASSED",
+                "warnings": 2078
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "20.0",
         "name": "SingleMuPt10+SingleMuPt10INPUT+DIGI+RECO+HARVEST",
         "steps": [
@@ -3123,6 +3182,33 @@
     },
     {
         "exitcode": 0,
+        "id": "134.701",
+        "name": "RunHLTPhy2015B+RunHLTPhy2015B+HLTDR2_50ns+RECODR2_50nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 228
+            },
+            {
+                "errors": 591,
+                "status": "PASSED",
+                "warnings": 4382
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.702",
         "name": "RunDoubleEG2015B+RunDoubleEG2015B+HLTDR2_50ns+RECODR2_50nsreHLT+HARVESTDR2",
         "steps": [
@@ -3226,6 +3312,33 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 12
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.706",
+        "name": "RunMuonEG2015B+RunMuonEG2015B+HLTDR2_50ns+RECODR2_50nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 249
+            },
+            {
+                "errors": 920,
+                "status": "PASSED",
+                "warnings": 4249
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 13
             }
         ]
     },
@@ -3690,6 +3803,33 @@
     },
     {
         "exitcode": 0,
+        "id": "134.902",
+        "name": "RunDoubleEG2015D+RunDoubleEG2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 260
+            },
+            {
+                "errors": 762,
+                "status": "PASSED",
+                "warnings": 4322
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.903",
         "name": "RunDoubleMuon2015D+RunDoubleMuon2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
         "steps": [
@@ -4063,6 +4203,28 @@
     },
     {
         "exitcode": 0,
+        "id": "135.11",
+        "name": "SMS-T1tttt_mGl-1500_mLSP-100_13+SMS-T1tttt_mGl-1500_mLSP-100FS_13+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 2172
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 227
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "135.12",
         "name": "QCD_Pt_80_120_13+QCD_Pt_80_120FS_13+HARVESTUP15FS+MINIAODMCUP15FS",
         "steps": [
@@ -4146,6 +4308,50 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 78
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "135.6",
+        "name": "QCD_FlatPt_15_3000_13+QCDFlatPt153000FS_13+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 727
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 53
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "135.7",
+        "name": "H125GGgluonfusion_13+H125GGgluonfusionFS_13+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1214
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 91
             }
         ]
     },
