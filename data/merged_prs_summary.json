@@ -16934,9 +16934,63 @@
             {
                 "addons": [], 
                 "comp_baseline_state": "errors", 
+                "builds": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "error", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.ICC-sun-11/CMSSW_8_1_ICC_X_2016-08-07-1100/new/logAnalysis.pkl", 
+                        "details": {
+                            "miscError": 21, 
+                            "compError": 81, 
+                            "linkError": 1804
+                        }
+                    }
+                ], 
+                "valgrind": "not-found", 
+                "compared_tags": "CMSSW_8_1_ICC_X_2016-08-07-0000-->CMSSW_8_1_ICC_X_2016-08-07-1100", 
+                "dqm_tests": "inprogress", 
+                "utests": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.ICC-sun-11/CMSSW_8_1_ICC_X_2016-08-07-1100/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }
+                ], 
+                "cmsdistTags": {
+                    "slc6_amd64_gcc530": "ERR/CMSSW_8_1_ICC_X_2016-08-07-1100/slc6_amd64_gcc530"
+                }, 
+                "igprof": "not-found", 
+                "relvals": [], 
+                "static_checks": "not-found", 
+                "isIB": true, 
+                "hlt_tests": "not-found", 
+                "comp_baseline": "not-found", 
+                "inProgress": false, 
+                "release_name": "CMSSW_8_1_ICC_X_2016-08-07-1100", 
+                "tests_archs": [
+                    "slc6_amd64_gcc530"
+                ], 
+                "RVExceptions": null, 
+                "merged_prs": [
+                    {
+                        "hash": "d654f7e2f00d9a80b576e180d61a39b8444e8867", 
+                        "title": "remove HcalCovarianceMatrix object entirely", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15363", 
+                        "number": "15363", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "kpedro88"
+                    }
+                ], 
+                "fwlite": []
+            }, 
+            {
+                "addons": [], 
+                "comp_baseline_state": "errors", 
                 "builds": [], 
                 "valgrind": "not-found", 
-                "compared_tags": "CMSSW_8_1_ICC_X_2016-08-07-0000-->CMSSW_8_1_X", 
+                "compared_tags": "CMSSW_8_1_ICC_X_2016-08-07-1100-->CMSSW_8_1_X", 
                 "dqm_tests": "inprogress", 
                 "utests": [], 
                 "cmsdistTags": {}, 
@@ -16950,17 +17004,7 @@
                 "release_name": "CMSSW_8_1_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
-                "merged_prs": [
-                    {
-                        "hash": "d654f7e2f00d9a80b576e180d61a39b8444e8867", 
-                        "title": "remove HcalCovarianceMatrix object entirely", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/15363", 
-                        "number": "15363", 
-                        "is_merge_commit": false, 
-                        "from_merge_commit": false, 
-                        "author_login": "kpedro88"
-                    }
-                ], 
+                "merged_prs": [], 
                 "fwlite": []
             }
         ]
@@ -17758,7 +17802,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.THREADED-sun-00/CMSSW_8_1_THREADED_X_2016-08-07-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1319, 
+                            "num_passed": 1331, 
                             "num_failed": 8
                         }
                     }
@@ -17789,9 +17833,59 @@
             {
                 "addons": [], 
                 "comp_baseline_state": "errors", 
+                "builds": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.THREADED-sun-11/CMSSW_8_1_THREADED_X_2016-08-07-1100/new/logAnalysis.pkl", 
+                        "details": {}
+                    }
+                ], 
+                "valgrind": "not-found", 
+                "compared_tags": "CMSSW_8_1_THREADED_X_2016-08-07-0000-->CMSSW_8_1_THREADED_X_2016-08-07-1100", 
+                "dqm_tests": "inprogress", 
+                "utests": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.THREADED-sun-11/CMSSW_8_1_THREADED_X_2016-08-07-1100/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }
+                ], 
+                "cmsdistTags": {
+                    "slc6_amd64_gcc530": "IB/CMSSW_8_1_THREADED_X_2016-08-07-0000/slc6_amd64_gcc530"
+                }, 
+                "igprof": "not-found", 
+                "relvals": [], 
+                "static_checks": "not-found", 
+                "isIB": true, 
+                "hlt_tests": "not-found", 
+                "comp_baseline": "not-found", 
+                "inProgress": false, 
+                "release_name": "CMSSW_8_1_THREADED_X_2016-08-07-1100", 
+                "tests_archs": [
+                    "slc6_amd64_gcc530"
+                ], 
+                "RVExceptions": null, 
+                "merged_prs": [
+                    {
+                        "hash": "d654f7e2f00d9a80b576e180d61a39b8444e8867", 
+                        "title": "remove HcalCovarianceMatrix object entirely", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15363", 
+                        "number": "15363", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "kpedro88"
+                    }
+                ], 
+                "fwlite": []
+            }, 
+            {
+                "addons": [], 
+                "comp_baseline_state": "errors", 
                 "builds": [], 
                 "valgrind": "not-found", 
-                "compared_tags": "CMSSW_8_1_THREADED_X_2016-08-07-0000-->CMSSW_8_1_X", 
+                "compared_tags": "CMSSW_8_1_THREADED_X_2016-08-07-1100-->CMSSW_8_1_X", 
                 "dqm_tests": "inprogress", 
                 "utests": [], 
                 "cmsdistTags": {}, 
@@ -17805,17 +17899,7 @@
                 "release_name": "CMSSW_8_1_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
-                "merged_prs": [
-                    {
-                        "hash": "d654f7e2f00d9a80b576e180d61a39b8444e8867", 
-                        "title": "remove HcalCovarianceMatrix object entirely", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/15363", 
-                        "number": "15363", 
-                        "is_merge_commit": false, 
-                        "from_merge_commit": false, 
-                        "author_login": "kpedro88"
-                    }
-                ], 
+                "merged_prs": [], 
                 "fwlite": []
             }
         ]
@@ -24332,7 +24416,7 @@
                         }
                     }
                 ], 
-                "static_checks": "inprogress", 
+                "static_checks": "slc6_amd64_gcc530:", 
                 "igprof": "found", 
                 "isIB": true, 
                 "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_8_1_X_2016-08-07-0000/slc6_amd64_gcc530/-GenuineIntel/matrix-results", 
@@ -24360,23 +24444,96 @@
                 "hlt_tests": "found"
             }, 
             {
-                "fwlite": [], 
-                "cmsdistTags": {}, 
+                "fwlite": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "warning", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/new_FWLITE/logAnalysis.pkl", 
+                        "details": {
+                            "compWarning": 1
+                        }
+                    }
+                ], 
+                "cmsdistTags": {
+                    "slc6_amd64_gcc493": "IB/CMSSW_8_1_X_2016-08-07-0000/slc6_amd64_gcc493", 
+                    "slc6_amd64_gcc530": "IB/CMSSW_8_1_X_2016-08-07-0000/slc6_amd64_gcc530", 
+                    "slc6_amd64_gcc600": "ERR/CMSSW_8_1_X_2016-08-07-1100/slc6_amd64_gcc600", 
+                    "slc7_amd64_gcc530": "IB/CMSSW_8_1_X_2016-08-07-0000/slc7_amd64_gcc530"
+                }, 
                 "addons": [], 
                 "comp_baseline_state": "ok", 
-                "builds": [], 
-                "compared_tags": "CMSSW_8_1_X_2016-08-07-0000-->CMSSW_8_1_X", 
+                "builds": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/new/logAnalysis.pkl", 
+                        "details": {}
+                    }, 
+                    {
+                        "arch": "slc7_amd64_gcc530", 
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/new/logAnalysis.pkl", 
+                        "details": {}
+                    }, 
+                    {
+                        "arch": "slc6_amd64_gcc493", 
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc493/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/new/logAnalysis.pkl", 
+                        "details": {}
+                    }, 
+                    {
+                        "arch": "slc6_amd64_gcc600", 
+                        "passed": "error", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc600/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/new/logAnalysis.pkl", 
+                        "details": {
+                            "compWarning": 896, 
+                            "compError": 2, 
+                            "ignoreWarning": 550
+                        }
+                    }
+                ], 
+                "compared_tags": "CMSSW_8_1_X_2016-08-07-0000-->CMSSW_8_1_X_2016-08-07-1100", 
                 "valgrind": "inprogress", 
-                "utests": [], 
+                "utests": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }, 
+                    {
+                        "arch": "slc7_amd64_gcc530", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }, 
+                    {
+                        "arch": "slc6_amd64_gcc493", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc493/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }, 
+                    {
+                        "arch": "slc6_amd64_gcc600", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc600/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }
+                ], 
                 "dqm_tests": "inprogress", 
                 "relvals": [], 
                 "static_checks": "inprogress", 
                 "igprof": "inprogress", 
-                "isIB": false, 
+                "isIB": true, 
                 "comp_baseline": "inprogress", 
                 "inProgress": false, 
-                "release_name": "CMSSW_8_1_X", 
-                "tests_archs": [], 
+                "release_name": "CMSSW_8_1_X_2016-08-07-1100", 
+                "tests_archs": [
+                    "slc6_amd64_gcc493", 
+                    "slc6_amd64_gcc530", 
+                    "slc6_amd64_gcc600", 
+                    "slc7_amd64_gcc530"
+                ], 
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
@@ -24389,6 +24546,28 @@
                         "author_login": "kpedro88"
                     }
                 ], 
+                "hlt_tests": "inprogress"
+            }, 
+            {
+                "fwlite": [], 
+                "cmsdistTags": {}, 
+                "addons": [], 
+                "comp_baseline_state": "ok", 
+                "builds": [], 
+                "compared_tags": "CMSSW_8_1_X_2016-08-07-1100-->CMSSW_8_1_X", 
+                "valgrind": "inprogress", 
+                "utests": [], 
+                "dqm_tests": "inprogress", 
+                "relvals": [], 
+                "static_checks": "inprogress", 
+                "igprof": "inprogress", 
+                "isIB": false, 
+                "comp_baseline": "inprogress", 
+                "inProgress": false, 
+                "release_name": "CMSSW_8_1_X", 
+                "tests_archs": [], 
+                "RVExceptions": null, 
+                "merged_prs": [], 
                 "hlt_tests": "inprogress"
             }
         ]
