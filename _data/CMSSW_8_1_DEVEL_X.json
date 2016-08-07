@@ -821,7 +821,14 @@
             "fwlite": []
         }, 
         {
-            "addons": [], 
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.DEVEL-sun-11/CMSSW_8_1_DEVEL_X_2016-08-07-1100/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
             "comp_baseline_state": "errors", 
             "builds": [
                 {
@@ -856,7 +863,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.DEVEL-sun-11/CMSSW_8_1_DEVEL_X_2016-08-07-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 64, 
+                        "num_passed": 224, 
                         "num_failed": 3
                     }
                 }
