@@ -676,6 +676,33 @@
     },
     {
         "exitcode": 0,
+        "id": "4.34",
+        "name": "ValSkim2011B+ValSkim2011B+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 94
+            },
+            {
+                "errors": 390,
+                "status": "PASSED",
+                "warnings": 1409
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 19
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.36",
         "name": "WElSkim2011B+WElSkim2011B+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
         "steps": [
@@ -2052,6 +2079,33 @@
     },
     {
         "exitcode": 0,
+        "id": "23.0",
+        "name": "JpsiMM+JpsiMMINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 21
+            },
+            {
+                "errors": 503,
+                "status": "PASSED",
+                "warnings": 993
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "24.0",
         "name": "TTbarLepton+TTbarLeptonINPUT+DIGI+RECO+HARVEST",
         "steps": [
@@ -2919,6 +2973,28 @@
                 "errors": 130,
                 "status": "PASSED",
                 "warnings": 597
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "119.0",
+        "name": "ZTT+ZTTHS+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 89
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 8
+            },
+            {
+                "errors": 43,
+                "status": "PASSED",
+                "warnings": 297
             }
         ]
     },
@@ -6582,6 +6658,33 @@
     },
     {
         "exitcode": 0,
+        "id": "1316.0",
+        "name": "SingleElectronPt1000_UP15+SingleElectronPt1000_UP15INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 239
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 175
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1317.0",
         "name": "SingleElectronPt35_UP15+SingleElectronPt35_UP15INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
         "steps": [
@@ -6734,6 +6837,60 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 112
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1323.0",
+        "name": "NuGun_UP15+NuGun_UP15INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 105
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 216
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1324.0",
+        "name": "TTbarLepton_13+TTbarLepton_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1290
+            },
+            {
+                "errors": 97,
+                "status": "PASSED",
+                "warnings": 288
             },
             {
                 "errors": 0,
@@ -6911,6 +7068,33 @@
     },
     {
         "exitcode": 0,
+        "id": "1328.0",
+        "name": "QCD_Pt_80_120_13+QCD_Pt_80_120_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 545
+            },
+            {
+                "errors": 61,
+                "status": "PASSED",
+                "warnings": 176
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1329.0",
         "name": "ZEE_13+ZEE_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
         "steps": [
@@ -6955,6 +7139,33 @@
                 "errors": 25,
                 "status": "PASSED",
                 "warnings": 272
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1333.0",
+        "name": "PhotonJets_Pt_10_13+PhotonJets_Pt_10_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 289
+            },
+            {
+                "errors": 25,
+                "status": "PASSED",
+                "warnings": 507
             },
             {
                 "errors": 0,
@@ -7360,6 +7571,33 @@
                 "errors": 47,
                 "status": "PASSED",
                 "warnings": 513
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1352.0",
+        "name": "HSCPstop_M_200_13+HSCPstop_M_200_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 467
+            },
+            {
+                "errors": 67,
+                "status": "PASSED",
+                "warnings": 394
             },
             {
                 "errors": 0,
