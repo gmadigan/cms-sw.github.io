@@ -730,6 +730,50 @@
     },
     {
         "exitcode": 0,
+        "id": "108.0",
+        "name": "H165WW2L+H165WW2L+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 21
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 5
+            },
+            {
+                "errors": 90,
+                "status": "PASSED",
+                "warnings": 110
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "109.0",
+        "name": "H200ZZ4L+H200ZZ4L+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 4
+            },
+            {
+                "errors": 92,
+                "status": "PASSED",
+                "warnings": 105
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "117.0",
         "name": "QCD_Pt_120_170+QCD_Pt_120_170+DIGI+RECO",
         "steps": [
@@ -747,6 +791,28 @@
                 "errors": 85,
                 "status": "PASSED",
                 "warnings": 99
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "118.0",
+        "name": "QCD_Pt_170_230+QCD_Pt_170_230+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 23
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 17
+            },
+            {
+                "errors": 125,
+                "status": "PASSED",
+                "warnings": 112
             }
         ]
     },
@@ -1299,6 +1365,33 @@
                 "errors": 800,
                 "status": "PASSED",
                 "warnings": 556
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.903",
+        "name": "RunDoubleMuon2015D+RunDoubleMuon2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 8
+            },
+            {
+                "errors": 738,
+                "status": "PASSED",
+                "warnings": 535
             },
             {
                 "errors": 1,
@@ -3233,6 +3326,33 @@
     },
     {
         "exitcode": 0,
+        "id": "50207.0",
+        "name": "NuGun_UP15+NuGun_UP15INPUT+DIGIUP15_PU50+RECOUP15_PU50+HARVESTUP15_PU50",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 21
+            },
+            {
+                "errors": 71,
+                "status": "PASSED",
+                "warnings": 135
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "50208.0",
         "name": "SMS-T1tttt_mGl-1500_mLSP-100_13+SMS-T1tttt_mGl-1500_mLSP-100_13INPUT+DIGIUP15_PU50+RECOUP15_PU50+HARVESTUP15_PU50",
         "steps": [
@@ -3821,6 +3941,33 @@
                 "errors": 76,
                 "status": "PASSED",
                 "warnings": 150
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "500207.0",
+        "name": "NuGun_UP15+NuGun_UP15INPUT+DIGIPRMXUP15_PU50+RECOPRMXUP15_PU50+HARVESTUP15_PU50",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 11
+            },
+            {
+                "errors": 61,
+                "status": "PASSED",
+                "warnings": 140
             },
             {
                 "errors": 3,
