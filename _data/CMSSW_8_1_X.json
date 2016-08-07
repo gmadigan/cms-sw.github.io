@@ -6452,7 +6452,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/8.1-sun-00/CMSSW_8_1_X_2016-08-07-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 330, 
+                        "num_passed": 353, 
                         "num_failed": 2
                     }
                 }, 
@@ -6600,6 +6600,14 @@
                     }
                 }, 
                 {
+                    "arch": "slc7_aarch64_gcc530", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "30"
+                    }
+                }, 
+                {
                     "arch": "slc6_amd64_gcc493", 
                     "passed": "failed", 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc493/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/unitTests-summary.log", 
@@ -6614,12 +6622,6 @@
                     "details": {
                         "num_fails": "26"
                     }
-                }, 
-                {
-                    "arch": "slc7_aarch64_gcc530", 
-                    "passed": "unknown", 
-                    "file": "['/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/new/logAnalysis.pkl']", 
-                    "details": {}
                 }, 
                 {
                     "arch": "slc7_amd64_gcc530", 
@@ -6671,15 +6673,15 @@
                     }
                 }
             ], 
-            "static_checks": "inprogress", 
+            "static_checks": "slc6_amd64_gcc530:", 
             "igprof": "found", 
             "isIB": true, 
             "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_8_1_X_2016-08-07-1100/slc6_amd64_gcc530/-GenuineIntel/matrix-results", 
             "inProgress": false, 
             "release_name": "CMSSW_8_1_X_2016-08-07-1100", 
             "tests_archs": [
-                "slc6_amd64_gcc493", 
                 "slc7_aarch64_gcc530", 
+                "slc6_amd64_gcc493", 
                 "slc6_amd64_gcc530", 
                 "slc6_amd64_gcc600", 
                 "slc7_amd64_gcc530"
