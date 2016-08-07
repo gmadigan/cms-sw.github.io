@@ -730,6 +730,50 @@
     },
     {
         "exitcode": 0,
+        "id": "117.0",
+        "name": "QCD_Pt_120_170+QCD_Pt_120_170+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
+            },
+            {
+                "errors": 85,
+                "status": "PASSED",
+                "warnings": 99
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "121.0",
+        "name": "TTbar+TTbar2HS+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 21
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 8
+            },
+            {
+                "errors": 105,
+                "status": "PASSED",
+                "warnings": 137
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "133.0",
         "name": "RSGrav+RSGrav+DIGI+RECO",
         "steps": [
@@ -3152,6 +3196,33 @@
                 "errors": 46,
                 "status": "PASSED",
                 "warnings": 134
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "50206.0",
+        "name": "ZMM_13+ZMM_13INPUT+DIGIUP15_PU50+RECOUP15_PU50+HARVESTUP15_PU50",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 22
+            },
+            {
+                "errors": 45,
+                "status": "PASSED",
+                "warnings": 117
             },
             {
                 "errors": 3,
