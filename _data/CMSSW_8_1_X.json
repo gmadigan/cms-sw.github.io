@@ -6562,7 +6562,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-08-07-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 795, 
+                        "num_passed": 819, 
                         "num_failed": 6
                     }
                 }, 
@@ -6754,6 +6754,15 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "gouskos"
+                }, 
+                {
+                    "hash": "8a190b7245035a4f8360e7a3a966986a92bcf9e0", 
+                    "title": "TTHFGenFilter", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15301", 
+                    "number": "15301", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Andrej-CMS"
                 }, 
                 {
                     "hash": "8295a286ef8ba30d0118f8827709781a949c3f64", 

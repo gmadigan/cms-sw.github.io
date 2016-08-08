@@ -14391,6 +14391,13 @@
     "title": "fix SUSY Razor HLT DQM module", 
     "user_ref": "razor-trigger-update-07-26-16-81X"
   }, 
+  "15301": {
+    "author": "Andrej-CMS", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "8a190b7245035a4f8360e7a3a966986a92bcf9e0", 
+    "title": "TTHFGenFilter", 
+    "user_ref": "ttHFGenFilter"
+  }, 
   "15303": {
     "author": "smuzaffar", 
     "branch": "CMSSW_8_1_X", 
