@@ -739,7 +739,35 @@
             "release_name": "CMSSW_8_0_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "b8b0ee640bfe21da717da432e39c7992e1cc666a", 
+                    "title": "80X Adding Mu12_Ele23 path", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15308", 
+                    "number": "15308", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "jasperlauwers"
+                }, 
+                {
+                    "hash": "ca8a38dfb4c78e892c9fa44e67388c8fd8b0257a", 
+                    "title": "New memory option in runTheMatrix (backport from #15149)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15323", 
+                    "number": "15323", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fabozzi"
+                }, 
+                {
+                    "hash": "37cca452abe323a742eca732039af2aa5c9bed52", 
+                    "title": "80X - Added CSC Unpacker check for FED/DDU<->chamber mapping inconsistencies", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15329", 
+                    "number": "15329", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "barvic"
+                }
+            ], 
             "hlt_tests": "inprogress"
         }
     ]

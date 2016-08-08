@@ -14419,6 +14419,13 @@
     "title": "81X Adding Mu12_Ele23 path", 
     "user_ref": "81_Mu12_Ele23"
   }, 
+  "15308": {
+    "author": "jasperlauwers", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "b8b0ee640bfe21da717da432e39c7992e1cc666a", 
+    "title": "80X Adding Mu12_Ele23 path", 
+    "user_ref": "80_Mu12_Ele23"
+  }, 
   "15309": {
     "author": "wddgit", 
     "branch": "CMSSW_8_1_X", 
@@ -14454,12 +14461,26 @@
     "title": "New pulse shape for HE 2017 SiPM", 
     "user_ref": "Phase1-HE4"
   }, 
+  "15323": {
+    "author": "fabozzi", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "ca8a38dfb4c78e892c9fa44e67388c8fd8b0257a", 
+    "title": "New memory option in runTheMatrix (backport from #15149)", 
+    "user_ref": "from-CMSSW_8_0_X_memopt"
+  }, 
   "15327": {
     "author": "cms-tsg-storm", 
     "branch": "CMSSW_8_1_X", 
     "hash": "53c32eab839900d661acbffd2c0559c7462475d7", 
     "title": "81X HLT July 29th train", 
     "user_ref": "81XHLTJuly29thTrain"
+  }, 
+  "15329": {
+    "author": "barvic", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "37cca452abe323a742eca732039af2aa5c9bed52", 
+    "title": "80X - Added CSC Unpacker check for FED/DDU<->chamber mapping inconsistencies", 
+    "user_ref": "csc_unpacker_fix_for_mapping_inconsistencies"
   }, 
   "15330": {
     "author": "barvic", 
