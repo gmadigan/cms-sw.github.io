@@ -838,6 +838,28 @@
     },
     {
         "exitcode": 0,
+        "id": "117.0",
+        "name": "QCD_Pt_120_170+QCD_Pt_120_170+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 17
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
+            },
+            {
+                "errors": 85,
+                "status": "PASSED",
+                "warnings": 105
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "133.0",
         "name": "RSGrav+RSGrav+DIGI+RECO",
         "steps": [
@@ -1390,6 +1412,33 @@
                 "errors": 1006,
                 "status": "PASSED",
                 "warnings": 624
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.906",
+        "name": "RunMuonEG2015D+RunMuonEG2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 836,
+                "status": "PASSED",
+                "warnings": 627
             },
             {
                 "errors": 1,
@@ -2236,6 +2285,33 @@
                 "errors": 3,
                 "status": "PASSED",
                 "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "300.0",
+        "name": "Pyquen_GammaJet_pt20_2760GeV+Pyquen_GammaJet_pt20_2760GeV+DIGIHIMIX+RECOHIMIX+HARVESTHI",
+        "steps": [
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 23
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 484,
+                "status": "PASSED",
+                "warnings": 5
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 10
             }
         ]
     },
