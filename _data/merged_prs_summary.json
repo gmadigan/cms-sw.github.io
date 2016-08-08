@@ -13787,7 +13787,18 @@
                 ], 
                 "dqm_tests": "inprogress", 
                 "igprof": "not-found", 
-                "relvals": [], 
+                "relvals": [
+                    {
+                        "done": false, 
+                        "arch": "slc6_amd64_gcc493", 
+                        "passed": false, 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc493/www/mon/8.0-mon-23/CMSSW_8_0_X_2016-08-08-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                        "details": {
+                            "num_passed": 2, 
+                            "num_failed": 29
+                        }
+                    }
+                ], 
                 "static_checks": "inprogress", 
                 "cmsdistTags": {
                     "slc6_amd64_gcc493": "IB/CMSSW_8_0_X_2016-08-07-0000/slc6_amd64_gcc493", 
@@ -25380,8 +25391,9 @@
             {
                 "fwlite": [], 
                 "cmsdistTags": {
+                    "slc6_amd64_gcc493": "IB/CMSSW_8_1_X_2016-08-07-0000/slc6_amd64_gcc493", 
                     "slc7_aarch64_gcc530": "IB/CMSSW_8_1_X_2016-08-07-1100/slc7_aarch64_gcc530", 
-                    "slc6_amd64_gcc493": "IB/CMSSW_8_1_X_2016-08-07-0000/slc6_amd64_gcc493"
+                    "slc7_amd64_gcc530": "IB/CMSSW_8_1_X_2016-08-07-0000/slc7_amd64_gcc530"
                 }, 
                 "addons": [], 
                 "comp_baseline_state": "ok", 
@@ -25390,6 +25402,12 @@
                         "arch": "slc7_aarch64_gcc530", 
                         "passed": "passed", 
                         "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/mon/8.1-mon-23/CMSSW_8_1_X_2016-08-08-2300/new/logAnalysis.pkl", 
+                        "details": {}
+                    }, 
+                    {
+                        "arch": "slc7_amd64_gcc530", 
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/mon/8.1-mon-23/CMSSW_8_1_X_2016-08-08-2300/new/logAnalysis.pkl", 
                         "details": {}
                     }, 
                     {
@@ -25409,6 +25427,12 @@
                         "details": {}
                     }, 
                     {
+                        "arch": "slc7_amd64_gcc530", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc7_amd64_gcc530/www/mon/8.1-mon-23/CMSSW_8_1_X_2016-08-08-2300/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }, 
+                    {
                         "arch": "slc6_amd64_gcc493", 
                         "passed": "unknown", 
                         "file": "['/data/sdt/buildlogs/slc6_amd64_gcc493/www/mon/8.1-mon-23/CMSSW_8_1_X_2016-08-08-2300/new/logAnalysis.pkl']", 
@@ -25416,7 +25440,18 @@
                     }
                 ], 
                 "dqm_tests": "inprogress", 
-                "relvals": [], 
+                "relvals": [
+                    {
+                        "done": false, 
+                        "arch": "slc6_amd64_gcc493", 
+                        "passed": false, 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc493/www/mon/8.1-mon-23/CMSSW_8_1_X_2016-08-08-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                        "details": {
+                            "num_passed": 0, 
+                            "num_failed": 1
+                        }
+                    }
+                ], 
                 "static_checks": "inprogress", 
                 "igprof": "inprogress", 
                 "isIB": true, 
@@ -25424,8 +25459,9 @@
                 "inProgress": false, 
                 "release_name": "CMSSW_8_1_X_2016-08-08-2300", 
                 "tests_archs": [
+                    "slc6_amd64_gcc493", 
                     "slc7_aarch64_gcc530", 
-                    "slc6_amd64_gcc493"
+                    "slc7_amd64_gcc530"
                 ], 
                 "RVExceptions": null, 
                 "merged_prs": [
