@@ -15013,7 +15013,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/8.1.CLANG-mon-11/CMSSW_8_1_CLANG_X_2016-08-08-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1312, 
+                            "num_passed": 1398, 
                             "num_failed": 27
                         }
                     }
@@ -16042,7 +16042,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/8.1.DEVEL-mon-11/CMSSW_8_1_DEVEL_X_2016-08-08-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1162, 
+                            "num_passed": 1245, 
                             "num_failed": 17
                         }
                     }
@@ -17274,21 +17274,43 @@
             {
                 "addons": [], 
                 "comp_baseline_state": "errors", 
-                "builds": [], 
+                "builds": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "error", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/8.1.ICC-mon-11/CMSSW_8_1_ICC_X_2016-08-08-1100/new/logAnalysis.pkl", 
+                        "details": {
+                            "miscError": 20, 
+                            "compError": 81, 
+                            "linkError": 1804
+                        }
+                    }
+                ], 
                 "valgrind": "not-found", 
-                "compared_tags": "CMSSW_8_1_ICC_X_2016-08-07-2300-->CMSSW_8_1_X", 
+                "compared_tags": "CMSSW_8_1_ICC_X_2016-08-07-2300-->CMSSW_8_1_ICC_X_2016-08-08-1100", 
                 "dqm_tests": "inprogress", 
-                "utests": [], 
-                "cmsdistTags": {}, 
+                "utests": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/8.1.ICC-mon-11/CMSSW_8_1_ICC_X_2016-08-08-1100/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }
+                ], 
+                "cmsdistTags": {
+                    "slc6_amd64_gcc530": "ERR/CMSSW_8_1_ICC_X_2016-08-08-1100/slc6_amd64_gcc530"
+                }, 
                 "igprof": "not-found", 
                 "relvals": [], 
                 "static_checks": "not-found", 
-                "isIB": false, 
+                "isIB": true, 
                 "hlt_tests": "not-found", 
                 "comp_baseline": "not-found", 
                 "inProgress": false, 
-                "release_name": "CMSSW_8_1_X", 
-                "tests_archs": [], 
+                "release_name": "CMSSW_8_1_ICC_X_2016-08-08-1100", 
+                "tests_archs": [
+                    "slc6_amd64_gcc530"
+                ], 
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
@@ -17310,15 +17332,6 @@
                         "author_login": "gouskos"
                     }, 
                     {
-                        "hash": "8a190b7245035a4f8360e7a3a966986a92bcf9e0", 
-                        "title": "TTHFGenFilter", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/15301", 
-                        "number": "15301", 
-                        "is_merge_commit": false, 
-                        "from_merge_commit": false, 
-                        "author_login": "Andrej-CMS"
-                    }, 
-                    {
                         "hash": "8295a286ef8ba30d0118f8827709781a949c3f64", 
                         "title": "bsunanda:Run2-TB03 Complete the analyzer and correct the configuration file for production", 
                         "url": "https://github.com/cms-sw/cmssw/pull/15377", 
@@ -17326,6 +17339,38 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "bsunanda"
+                    }
+                ], 
+                "fwlite": []
+            }, 
+            {
+                "addons": [], 
+                "comp_baseline_state": "errors", 
+                "builds": [], 
+                "valgrind": "not-found", 
+                "compared_tags": "CMSSW_8_1_ICC_X_2016-08-08-1100-->CMSSW_8_1_X", 
+                "dqm_tests": "inprogress", 
+                "utests": [], 
+                "cmsdistTags": {}, 
+                "igprof": "not-found", 
+                "relvals": [], 
+                "static_checks": "not-found", 
+                "isIB": false, 
+                "hlt_tests": "not-found", 
+                "comp_baseline": "not-found", 
+                "inProgress": false, 
+                "release_name": "CMSSW_8_1_X", 
+                "tests_archs": [], 
+                "RVExceptions": null, 
+                "merged_prs": [
+                    {
+                        "hash": "8a190b7245035a4f8360e7a3a966986a92bcf9e0", 
+                        "title": "TTHFGenFilter", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15301", 
+                        "number": "15301", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "Andrej-CMS"
                     }
                 ], 
                 "fwlite": []
@@ -18265,7 +18310,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/8.1.THREADED-mon-11/CMSSW_8_1_THREADED_X_2016-08-08-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 956, 
+                            "num_passed": 1000, 
                             "num_failed": 11
                         }
                     }
@@ -25195,7 +25240,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/8.1-mon-11/CMSSW_8_1_X_2016-08-08-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1218, 
+                            "num_passed": 1222, 
                             "num_failed": 19
                         }
                     }, 
@@ -25273,7 +25318,7 @@
                         "author_login": "bsunanda"
                     }
                 ], 
-                "hlt_tests": "inprogress"
+                "hlt_tests": "found"
             }, 
             {
                 "fwlite": [], 
