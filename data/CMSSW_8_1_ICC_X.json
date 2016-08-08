@@ -1190,7 +1190,35 @@
             "release_name": "CMSSW_8_1_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "d47cb1caa15366084b2020303cbfe95d65a4fc66", 
+                    "title": "bsunanda:Run2-TB04 Update all codes for HGCal TB till July 2016", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15379", 
+                    "number": "15379", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "bsunanda"
+                }, 
+                {
+                    "hash": "90262f2dcf583c55255b898c3a2be712dcd3e1d4", 
+                    "title": "dqm plot, pixel endcap roc occupancy in 81x", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15237", 
+                    "number": "15237", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "gouskos"
+                }, 
+                {
+                    "hash": "8295a286ef8ba30d0118f8827709781a949c3f64", 
+                    "title": "bsunanda:Run2-TB03 Complete the analyzer and correct the configuration file for production", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15377", 
+                    "number": "15377", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "bsunanda"
+                }
+            ], 
             "fwlite": []
         }
     ]

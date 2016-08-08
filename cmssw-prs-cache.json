@@ -14167,6 +14167,13 @@
     "title": "Fixing phase-I Tracker Alignment for change in geometry in PR #14726", 
     "user_ref": "fixPhaseIAligments_PR14726"
   }, 
+  "15237": {
+    "author": "gouskos", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "90262f2dcf583c55255b898c3a2be712dcd3e1d4", 
+    "title": "dqm plot, pixel endcap roc occupancy in 81x", 
+    "user_ref": "pix-endcap-roc-81x"
+  }, 
   "15238": {
     "author": "jkarancs", 
     "branch": "CMSSW_8_1_X", 
@@ -14565,6 +14572,27 @@
     "hash": "7dec90ec4acd6b9f6d3adcd18568c2a534e313f1", 
     "title": "remove failing relval from short matrix (temporarily)", 
     "user_ref": "noHIFail"
+  }, 
+  "15377": {
+    "author": "bsunanda", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "8295a286ef8ba30d0118f8827709781a949c3f64", 
+    "title": "bsunanda:Run2-TB03 Complete the analyzer and correct the configuration file for production", 
+    "user_ref": "Run2-TB03"
+  }, 
+  "15379": {
+    "author": "bsunanda", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "d47cb1caa15366084b2020303cbfe95d65a4fc66", 
+    "title": "bsunanda:Run2-TB04 Update all codes for HGCal TB till July 2016", 
+    "user_ref": "Run2-TB04"
+  }, 
+  "15383": {
+    "author": "Dr15Jones", 
+    "branch": "CMSSW_8_1_ROOT64_X", 
+    "hash": "9dde89cf2cb8c9a185ad0eb7be66efbe74c23dd3", 
+    "title": "Fixed case of recursive call into NoProcessProductResolver", 
+    "user_ref": "fixRecursiveCall"
   }, 
   "1542": {
     "author": "Dr15Jones", 
