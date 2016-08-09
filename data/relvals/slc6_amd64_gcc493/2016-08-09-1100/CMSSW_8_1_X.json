@@ -671,6 +671,33 @@
     },
     {
         "exitcode": 0,
+        "id": "4.28",
+        "name": "HighMet2011A+HighMet2011A+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 49
+            },
+            {
+                "errors": 213,
+                "status": "PASSED",
+                "warnings": 667
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 128
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.29",
         "name": "RunMinBias2011B+RunMinBias2011B+HLTD+RECODR1reHLT+HARVESTDR1reHLT+SKIMDreHLT",
         "steps": [
@@ -698,6 +725,60 @@
                 "errors": 16,
                 "status": "PASSED",
                 "warnings": 325
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.34",
+        "name": "ValSkim2011B+ValSkim2011B+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 86
+            },
+            {
+                "errors": 390,
+                "status": "PASSED",
+                "warnings": 1458
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 19
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.36",
+        "name": "WElSkim2011B+WElSkim2011B+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 22
+            },
+            {
+                "errors": 366,
+                "status": "PASSED",
+                "warnings": 743
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 10
             }
         ]
     },
@@ -828,6 +909,33 @@
                 "errors": 316,
                 "status": "PASSED",
                 "warnings": 1045
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.44",
+        "name": "RunElectron2012A+RunElectron2012A+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 58
+            },
+            {
+                "errors": 430,
+                "status": "PASSED",
+                "warnings": 749
             },
             {
                 "errors": 1,
@@ -2219,6 +2327,33 @@
     },
     {
         "exitcode": 0,
+        "id": "32.0",
+        "name": "H130GGgluonfusion+H130GGgluonfusionINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 108
+            },
+            {
+                "errors": 527,
+                "status": "PASSED",
+                "warnings": 1205
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "33.0",
         "name": "PhotonJets_Pt_10+PhotonJets_Pt_10INPUT+DIGI+RECO+HARVEST",
         "steps": [
@@ -2263,6 +2398,33 @@
                 "errors": 61,
                 "status": "PASSED",
                 "warnings": 587
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "35.0",
+        "name": "Wjet_Pt_80_120+Wjet_Pt_80_120INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 139
+            },
+            {
+                "errors": 597,
+                "status": "PASSED",
+                "warnings": 1157
             },
             {
                 "errors": 3,
@@ -7311,6 +7473,33 @@
                 "errors": 20,
                 "status": "PASSED",
                 "warnings": 605
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1349.0",
+        "name": "BsToMuMu_13+BsToMuMu_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 327
+            },
+            {
+                "errors": 39,
+                "status": "PASSED",
+                "warnings": 353
             },
             {
                 "errors": 0,
