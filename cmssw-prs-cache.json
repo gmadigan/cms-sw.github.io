@@ -14601,6 +14601,13 @@
     "title": "remove failing relval from short matrix (temporarily)", 
     "user_ref": "noHIFail"
   }, 
+  "15371": {
+    "author": "makortel", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "fc89adcabde09fd2c7c92caec109e58d7db5cb55", 
+    "title": "Add possibility to weigh pixel hits in QuickTrackAssociatorByHits", 
+    "user_ref": "trackTPMatchingPixelWeight"
+  }, 
   "15377": {
     "author": "bsunanda", 
     "branch": "CMSSW_8_1_X", 
