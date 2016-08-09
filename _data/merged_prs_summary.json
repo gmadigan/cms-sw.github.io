@@ -25715,7 +25715,16 @@
                 "hlt_tests": "found"
             }, 
             {
-                "fwlite": [], 
+                "fwlite": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "warning", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1-tue-11/CMSSW_8_1_X_2016-08-09-1100/new_FWLITE/logAnalysis.pkl", 
+                        "details": {
+                            "compWarning": 1
+                        }
+                    }
+                ], 
                 "cmsdistTags": {
                     "slc6_amd64_gcc493": "IB/CMSSW_8_1_X_2016-08-07-0000/slc6_amd64_gcc493", 
                     "slc7_aarch64_gcc530": "IB/CMSSW_8_1_X_2016-08-07-1100/slc7_aarch64_gcc530", 
