@@ -14573,6 +14573,13 @@
     "title": "fixing typo in geometry in Strip hit efficiency tool ", 
     "user_ref": "Striphieffi_81X"
   }, 
+  "15342": {
+    "author": "boudoul", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "7b5b47e17f819408669054697c1e3a3496e504cd", 
+    "title": "update of Strip hit efficiency code - 80X version", 
+    "user_ref": "Striphieffi_80X"
+  }, 
   "15345": {
     "author": "fioriNTU", 
     "branch": "CMSSW_8_1_X", 
@@ -14705,6 +14712,13 @@
     "hash": "d0816c53668a99bb3474c3ac500aba390ecb8fe1", 
     "title": "protect RawTask::_process from processing bad HcalHTRData, backport to 80x", 
     "user_ref": "HcalTasks-rawtask-bad-event-protection-80x"
+  }, 
+  "15396": {
+    "author": "mmusich", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "4945b21eb35cabb75169f099ced7665ab9432375", 
+    "title": "80x: fix SiPixelAli PCL update logic", 
+    "user_ref": "80X_fixSiPixelAliLogic"
   }, 
   "1542": {
     "author": "Dr15Jones", 

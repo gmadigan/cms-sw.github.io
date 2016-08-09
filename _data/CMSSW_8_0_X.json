@@ -902,13 +902,13 @@
             "RVExceptions": null, 
             "merged_prs": [
                 {
-                    "hash": "2d37bdd8a8aa8f04de72505346dcd5986e30e9bc", 
-                    "title": "Update muon timing analyzer 80x", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/15349", 
-                    "number": "15349", 
+                    "hash": "77d408a29245d77247ec7d3fe68ff3063e09b4f4", 
+                    "title": "CTPPS: directory rename Totem -> CTPPS (back-port of #15311)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15317", 
+                    "number": "15317", 
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
-                    "author_login": "jalimena"
+                    "author_login": "CTPPS"
                 }, 
                 {
                     "hash": "3390830088d46317af844f903f48d6e15b3d968f", 
@@ -920,13 +920,22 @@
                     "author_login": "gouskos"
                 }, 
                 {
-                    "hash": "77d408a29245d77247ec7d3fe68ff3063e09b4f4", 
-                    "title": "CTPPS: directory rename Totem -> CTPPS (back-port of #15311)", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/15317", 
-                    "number": "15317", 
+                    "hash": "7b5b47e17f819408669054697c1e3a3496e504cd", 
+                    "title": "update of Strip hit efficiency code - 80X version", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15342", 
+                    "number": "15342", 
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
-                    "author_login": "CTPPS"
+                    "author_login": "boudoul"
+                }, 
+                {
+                    "hash": "2d37bdd8a8aa8f04de72505346dcd5986e30e9bc", 
+                    "title": "Update muon timing analyzer 80x", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15349", 
+                    "number": "15349", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "jalimena"
                 }, 
                 {
                     "hash": "d0816c53668a99bb3474c3ac500aba390ecb8fe1", 
@@ -936,6 +945,15 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "dan131riley"
+                }, 
+                {
+                    "hash": "4945b21eb35cabb75169f099ced7665ab9432375", 
+                    "title": "80x: fix SiPixelAli PCL update logic", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15396", 
+                    "number": "15396", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mmusich"
                 }
             ], 
             "hlt_tests": "inprogress"

@@ -13074,13 +13074,13 @@
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
-                        "hash": "2d37bdd8a8aa8f04de72505346dcd5986e30e9bc", 
-                        "title": "Update muon timing analyzer 80x", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/15349", 
-                        "number": "15349", 
+                        "hash": "77d408a29245d77247ec7d3fe68ff3063e09b4f4", 
+                        "title": "CTPPS: directory rename Totem -> CTPPS (back-port of #15311)", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15317", 
+                        "number": "15317", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "jalimena"
+                        "author_login": "CTPPS"
                     }, 
                     {
                         "hash": "3390830088d46317af844f903f48d6e15b3d968f", 
@@ -13092,13 +13092,22 @@
                         "author_login": "gouskos"
                     }, 
                     {
-                        "hash": "77d408a29245d77247ec7d3fe68ff3063e09b4f4", 
-                        "title": "CTPPS: directory rename Totem -> CTPPS (back-port of #15311)", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/15317", 
-                        "number": "15317", 
+                        "hash": "7b5b47e17f819408669054697c1e3a3496e504cd", 
+                        "title": "update of Strip hit efficiency code - 80X version", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15342", 
+                        "number": "15342", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "CTPPS"
+                        "author_login": "boudoul"
+                    }, 
+                    {
+                        "hash": "2d37bdd8a8aa8f04de72505346dcd5986e30e9bc", 
+                        "title": "Update muon timing analyzer 80x", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15349", 
+                        "number": "15349", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "jalimena"
                     }, 
                     {
                         "hash": "d0816c53668a99bb3474c3ac500aba390ecb8fe1", 
@@ -13108,6 +13117,15 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "dan131riley"
+                    }, 
+                    {
+                        "hash": "4945b21eb35cabb75169f099ced7665ab9432375", 
+                        "title": "80x: fix SiPixelAli PCL update logic", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15396", 
+                        "number": "15396", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "mmusich"
                     }
                 ], 
                 "fwlite": []
@@ -14018,13 +14036,13 @@
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
-                        "hash": "2d37bdd8a8aa8f04de72505346dcd5986e30e9bc", 
-                        "title": "Update muon timing analyzer 80x", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/15349", 
-                        "number": "15349", 
+                        "hash": "77d408a29245d77247ec7d3fe68ff3063e09b4f4", 
+                        "title": "CTPPS: directory rename Totem -> CTPPS (back-port of #15311)", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15317", 
+                        "number": "15317", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "jalimena"
+                        "author_login": "CTPPS"
                     }, 
                     {
                         "hash": "3390830088d46317af844f903f48d6e15b3d968f", 
@@ -14036,13 +14054,22 @@
                         "author_login": "gouskos"
                     }, 
                     {
-                        "hash": "77d408a29245d77247ec7d3fe68ff3063e09b4f4", 
-                        "title": "CTPPS: directory rename Totem -> CTPPS (back-port of #15311)", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/15317", 
-                        "number": "15317", 
+                        "hash": "7b5b47e17f819408669054697c1e3a3496e504cd", 
+                        "title": "update of Strip hit efficiency code - 80X version", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15342", 
+                        "number": "15342", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "CTPPS"
+                        "author_login": "boudoul"
+                    }, 
+                    {
+                        "hash": "2d37bdd8a8aa8f04de72505346dcd5986e30e9bc", 
+                        "title": "Update muon timing analyzer 80x", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15349", 
+                        "number": "15349", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "jalimena"
                     }, 
                     {
                         "hash": "d0816c53668a99bb3474c3ac500aba390ecb8fe1", 
@@ -14052,6 +14079,15 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "dan131riley"
+                    }, 
+                    {
+                        "hash": "4945b21eb35cabb75169f099ced7665ab9432375", 
+                        "title": "80x: fix SiPixelAli PCL update logic", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15396", 
+                        "number": "15396", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "mmusich"
                     }
                 ], 
                 "hlt_tests": "inprogress"
@@ -15421,8 +15457,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.CLANG-tue-11/CMSSW_8_1_CLANG_X_2016-08-09-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 657, 
-                            "num_failed": 16
+                            "num_passed": 714, 
+                            "num_failed": 18
                         }
                     }
                 ], 
@@ -16598,13 +16634,15 @@
                 ], 
                 "valgrind": "not-found", 
                 "compared_tags": "CMSSW_8_1_DEVEL_X_2016-08-08-2300-->CMSSW_8_1_DEVEL_X_2016-08-09-1100", 
-                "dqm_tests": "inprogress", 
+                "dqm_tests": "found", 
                 "utests": [
                     {
                         "arch": "slc6_amd64_gcc530", 
-                        "passed": "unknown", 
-                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.DEVEL-tue-11/CMSSW_8_1_DEVEL_X_2016-08-09-1100/new/logAnalysis.pkl']", 
-                        "details": {}
+                        "passed": "failed", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.DEVEL-tue-11/CMSSW_8_1_DEVEL_X_2016-08-09-1100/unitTests-summary.log", 
+                        "details": {
+                            "num_fails": "26"
+                        }
                     }
                 ], 
                 "cmsdistTags": {
@@ -16618,7 +16656,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.DEVEL-tue-11/CMSSW_8_1_DEVEL_X_2016-08-09-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 104, 
+                            "num_passed": 160, 
                             "num_failed": 0
                         }
                     }
@@ -19143,7 +19181,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.THREADED-tue-11/CMSSW_8_1_THREADED_X_2016-08-09-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 867, 
+                            "num_passed": 904, 
                             "num_failed": 14
                         }
                     }
@@ -26270,8 +26308,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc600/www/tue/8.1-tue-11/CMSSW_8_1_X_2016-08-09-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1191, 
-                            "num_failed": 14
+                            "num_passed": 1235, 
+                            "num_failed": 15
                         }
                     }
                 ], 
