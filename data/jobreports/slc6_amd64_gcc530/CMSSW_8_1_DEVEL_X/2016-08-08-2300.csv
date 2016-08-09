@@ -1,1 +1,2 @@
-Timestamp WorkflowId
+Timestamp WorkflowId PeakValueRss2 PeakValueRss3 PeakValueRss4 PeakValueVsize2 PeakValueVsize3 PeakValueVsize4 TotalJobCPU2 TotalJobCPU3 TotalJobCPU4 TotalJobTime2 TotalJobTime3 TotalJobTime4
+1470690000.0 10024.5 108 143 0 177 185 0 656 533 361 726 576 370
