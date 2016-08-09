@@ -1039,9 +1039,80 @@
         {
             "addons": [], 
             "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.DEVEL-tue-11/CMSSW_8_1_DEVEL_X_2016-08-09-1100/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 8, 
+                        "ignoreWarning": 25
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "compared_tags": "CMSSW_8_1_DEVEL_X_2016-08-08-2300-->CMSSW_8_1_DEVEL_X_2016-08-09-1100", 
+            "dqm_tests": "inprogress", 
+            "utests": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "unknown", 
+                    "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.DEVEL-tue-11/CMSSW_8_1_DEVEL_X_2016-08-09-1100/new/logAnalysis.pkl']", 
+                    "details": {}
+                }
+            ], 
+            "cmsdistTags": {
+                "slc6_amd64_gcc530": "IB/CMSSW_8_1_DEVEL_X_2016-08-07-0000/slc6_amd64_gcc530"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "comp_baseline": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_8_1_DEVEL_X_2016-08-09-1100", 
+            "tests_archs": [
+                "slc6_amd64_gcc530"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "fc89adcabde09fd2c7c92caec109e58d7db5cb55", 
+                    "title": "Add possibility to weigh pixel hits in QuickTrackAssociatorByHits", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15371", 
+                    "number": "15371", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": true, 
+                    "author_login": "makortel"
+                }, 
+                {
+                    "hash": "c8fbecdc2f5bea5052076b093d26cd9590398606", 
+                    "title": "Replacing unreliable array initialization in SiPixelTemplateReco.cc", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15386", 
+                    "number": "15386", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": true, 
+                    "author_login": "uhussain"
+                }, 
+                {
+                    "hash": "cfadbb95b45ea1bb5885346c8de482f30c73668e", 
+                    "title": "Don't produce GEMCoPadDigi in 2016 WFs", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15325", 
+                    "number": "15325", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": true, 
+                    "author_login": "dildick"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [], 
+            "comp_baseline_state": "errors", 
             "builds": [], 
             "valgrind": "not-found", 
-            "compared_tags": "CMSSW_8_1_DEVEL_X_2016-08-08-2300-->CMSSW_8_1_ROOT64_X", 
+            "compared_tags": "CMSSW_8_1_DEVEL_X_2016-08-09-1100-->CMSSW_8_1_ROOT64_X", 
             "dqm_tests": "inprogress", 
             "utests": [], 
             "cmsdistTags": {}, 
@@ -1075,22 +1146,13 @@
                     "author_login": "mmusich"
                 }, 
                 {
-                    "hash": "c8fbecdc2f5bea5052076b093d26cd9590398606", 
-                    "title": "Replacing unreliable array initialization in SiPixelTemplateReco.cc", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/15386", 
-                    "number": "15386", 
+                    "hash": "aec6c08beb53945404d66a9d940ad1eba51ec568", 
+                    "title": "Extended o2o for81x", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15243", 
+                    "number": "15243", 
                     "is_merge_commit": false, 
                     "from_merge_commit": true, 
-                    "author_login": "uhussain"
-                }, 
-                {
-                    "hash": "cfadbb95b45ea1bb5885346c8de482f30c73668e", 
-                    "title": "Don't produce GEMCoPadDigi in 2016 WFs", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/15325", 
-                    "number": "15325", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": true, 
-                    "author_login": "dildick"
+                    "author_login": "kkotov"
                 }, 
                 {
                     "hash": "df9bab9bf28b35211f7f1870a7ff803dec59da52", 
@@ -1100,24 +1162,6 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": true, 
                     "author_login": "cms-btv-pog"
-                }, 
-                {
-                    "hash": "fc89adcabde09fd2c7c92caec109e58d7db5cb55", 
-                    "title": "Add possibility to weigh pixel hits in QuickTrackAssociatorByHits", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/15371", 
-                    "number": "15371", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": true, 
-                    "author_login": "makortel"
-                }, 
-                {
-                    "hash": "aec6c08beb53945404d66a9d940ad1eba51ec568", 
-                    "title": "Extended o2o for81x", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/15243", 
-                    "number": "15243", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": true, 
-                    "author_login": "kkotov"
                 }
             ], 
             "fwlite": []
