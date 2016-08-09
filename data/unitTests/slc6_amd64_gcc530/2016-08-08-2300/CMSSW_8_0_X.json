@@ -11,11 +11,6 @@
   },
   {
     "errors": [],
-    "name": "Utilities/DavixAdaptor",
-    "ok": []
-  },
-  {
-    "errors": [],
     "name": "TrackingTools/TrajectoryState",
     "ok": []
   },
@@ -142,6 +137,11 @@
   {
     "errors": [],
     "name": "SimCalorimetry/HcalSimAlgos",
+    "ok": []
+  },
+  {
+    "errors": [],
+    "name": "SimCalorimetry/HGCalSimProducers",
     "ok": []
   },
   {
@@ -287,11 +287,6 @@
   {
     "errors": [],
     "name": "L1Trigger/TextToDigi",
-    "ok": []
-  },
-  {
-    "errors": [],
-    "name": "L1Trigger/L1THGCal",
     "ok": []
   },
   {
@@ -537,11 +532,6 @@
   {
     "errors": [],
     "name": "DataFormats/Provenance",
-    "ok": []
-  },
-  {
-    "errors": [],
-    "name": "DataFormats/Phase2ITPixelCluster",
     "ok": []
   },
   {
