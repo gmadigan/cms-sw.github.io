@@ -1029,13 +1029,15 @@
             ], 
             "valgrind": "not-found", 
             "compared_tags": "CMSSW_8_1_THREADED_X_2016-08-08-2300-->CMSSW_8_1_THREADED_X_2016-08-09-1100", 
-            "dqm_tests": "inprogress", 
+            "dqm_tests": "found", 
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc530", 
-                    "passed": "unknown", 
-                    "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.THREADED-tue-11/CMSSW_8_1_THREADED_X_2016-08-09-1100/new/logAnalysis.pkl']", 
-                    "details": {}
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.THREADED-tue-11/CMSSW_8_1_THREADED_X_2016-08-09-1100/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "26"
+                    }
                 }
             ], 
             "cmsdistTags": {
@@ -1049,7 +1051,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.THREADED-tue-11/CMSSW_8_1_THREADED_X_2016-08-09-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 81, 
+                        "num_passed": 113, 
                         "num_failed": 0
                     }
                 }
