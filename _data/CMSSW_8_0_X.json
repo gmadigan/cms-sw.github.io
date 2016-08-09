@@ -806,11 +806,11 @@
                 {
                     "done": false, 
                     "arch": "slc6_amd64_gcc530", 
-                    "passed": true, 
+                    "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/8.0-mon-23/CMSSW_8_0_X_2016-08-08-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 16, 
-                        "num_failed": 0
+                        "num_passed": 54, 
+                        "num_failed": 6
                     }
                 }, 
                 {
@@ -819,8 +819,8 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc493/www/mon/8.0-mon-23/CMSSW_8_0_X_2016-08-08-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 503, 
-                        "num_failed": 67
+                        "num_passed": 567, 
+                        "num_failed": 68
                     }
                 }
             ], 
