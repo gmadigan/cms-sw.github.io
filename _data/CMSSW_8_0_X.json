@@ -425,7 +425,7 @@
             "compared_tags": "CMSSW_8_0_16-->CMSSW_8_0_X_2016-07-31-0000", 
             "valgrind": "inprogress", 
             "utests": [], 
-            "dqm_tests": "found", 
+            "dqm_tests": "inprogress", 
             "igprof": "not-found", 
             "relvals": [], 
             "static_checks": "inprogress", 

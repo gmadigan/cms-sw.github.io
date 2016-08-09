@@ -10,7 +10,7 @@
             "compared_tags": "CMSSW_7_6_5_patch1-->CMSSW_7_6_X_2016-07-31-0000", 
             "valgrind": "inprogress", 
             "utests": [], 
-            "dqm_tests": "found", 
+            "dqm_tests": "inprogress", 
             "igprof": "not-found", 
             "relvals": [], 
             "static_checks": "inprogress", 
