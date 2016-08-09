@@ -14496,6 +14496,13 @@
     "title": "81X - Added CSC Unpacker check for FED/DDU<->chamber mapping inconsistencies", 
     "user_ref": "csc_unpacker_fix_for_mapping_inconsistencies_81X"
   }, 
+  "15331": {
+    "author": "cms-btv-pog", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "df9bab9bf28b35211f7f1870a7ff803dec59da52", 
+    "title": "Subjet TagInfo updates", 
+    "user_ref": "SubjetTagInfosNoClustering-PR_from-CMSSW_8_1_0_pre9"
+  }, 
   "15332": {
     "author": "venturia", 
     "branch": "CMSSW_8_1_X", 
@@ -14635,6 +14642,13 @@
     "hash": "9dde89cf2cb8c9a185ad0eb7be66efbe74c23dd3", 
     "title": "Fixed case of recursive call into NoProcessProductResolver", 
     "user_ref": "fixRecursiveCall"
+  }, 
+  "15385": {
+    "author": "mmusich", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "73749575bf4b0c38a87c907aa828477bbb1bc988", 
+    "title": "81x: fix SiPixelAli PCL update logic", 
+    "user_ref": "81X_fixSiPixelAliPCL"
   }, 
   "15386": {
     "author": "uhussain", 

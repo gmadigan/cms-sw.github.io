@@ -7107,7 +7107,26 @@
             "release_name": "CMSSW_8_1_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "73749575bf4b0c38a87c907aa828477bbb1bc988", 
+                    "title": "81x: fix SiPixelAli PCL update logic", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15385", 
+                    "number": "15385", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mmusich"
+                }, 
+                {
+                    "hash": "df9bab9bf28b35211f7f1870a7ff803dec59da52", 
+                    "title": "Subjet TagInfo updates", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15331", 
+                    "number": "15331", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cms-btv-pog"
+                }
+            ], 
             "hlt_tests": "inprogress"
         }
     ]
