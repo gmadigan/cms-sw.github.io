@@ -829,12 +829,12 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc493/www/mon/8.0-mon-23/CMSSW_8_0_X_2016-08-08-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 921, 
+                        "num_passed": 940, 
                         "num_failed": 91
                     }
                 }
             ], 
-            "static_checks": "inprogress", 
+            "static_checks": "slc6_amd64_gcc530:reports/modules2statics-filter1.txt\n", 
             "cmsdistTags": {
                 "slc6_amd64_gcc493": "IB/CMSSW_8_0_X_2016-08-07-0000/slc6_amd64_gcc493", 
                 "slc6_amd64_gcc530": "IB/CMSSW_8_0_X_2016-08-07-0000/slc6_amd64_gcc530", 
