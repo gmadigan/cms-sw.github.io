@@ -5061,7 +5061,17 @@
             "release_name": "CMSSW_7_4_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "9eb8f642958b7db5a21e38444661a29fa8695c3b", 
+                    "title": "change das_client.py to das_client in cmsDriver", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15402", 
+                    "number": "15402", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "degano"
+                }
+            ], 
             "hlt_tests": "inprogress"
         }
     ]

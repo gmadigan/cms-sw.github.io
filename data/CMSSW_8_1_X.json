@@ -7009,8 +7009,8 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc600/www/tue/8.1-tue-11/CMSSW_8_1_X_2016-08-09-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1278, 
-                        "num_failed": 16
+                        "num_passed": 1344, 
+                        "num_failed": 17
                     }
                 }
             ], 
