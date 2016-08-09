@@ -14636,6 +14636,13 @@
     "title": "Fixed case of recursive call into NoProcessProductResolver", 
     "user_ref": "fixRecursiveCall"
   }, 
+  "15386": {
+    "author": "uhussain", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "c8fbecdc2f5bea5052076b093d26cd9590398606", 
+    "title": "Replacing unreliable array initialization in SiPixelTemplateReco.cc", 
+    "user_ref": "fix_staticAnaWarns"
+  }, 
   "1542": {
     "author": "Dr15Jones", 
     "branch": "CMSSW_5_3_X", 

@@ -1039,6 +1039,15 @@
                     "author_login": "makortel"
                 }, 
                 {
+                    "hash": "c8fbecdc2f5bea5052076b093d26cd9590398606", 
+                    "title": "Replacing unreliable array initialization in SiPixelTemplateReco.cc", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15386", 
+                    "number": "15386", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "uhussain"
+                }, 
+                {
                     "hash": "cfadbb95b45ea1bb5885346c8de482f30c73668e", 
                     "title": "Don't produce GEMCoPadDigi in 2016 WFs", 
                     "url": "https://github.com/cms-sw/cmssw/pull/15325", 
