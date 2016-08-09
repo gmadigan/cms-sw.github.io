@@ -14202,6 +14202,13 @@
     "title": "First implementation HIP simulation: PR 15062 without the data file", 
     "user_ref": "removeDataFromHIPSim"
   }, 
+  "15243": {
+    "author": "kkotov", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "aec6c08beb53945404d66a9d940ad1eba51ec568", 
+    "title": "Extended o2o for81x", 
+    "user_ref": "extendedO2Ofor81X"
+  }, 
   "15244": {
     "author": "bsunanda", 
     "branch": "CMSSW_8_1_X", 

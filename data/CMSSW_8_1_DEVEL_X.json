@@ -1057,15 +1057,6 @@
             "RVExceptions": null, 
             "merged_prs": [
                 {
-                    "hash": "fc89adcabde09fd2c7c92caec109e58d7db5cb55", 
-                    "title": "Add possibility to weigh pixel hits in QuickTrackAssociatorByHits", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/15371", 
-                    "number": "15371", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": true, 
-                    "author_login": "makortel"
-                }, 
-                {
                     "hash": "73749575bf4b0c38a87c907aa828477bbb1bc988", 
                     "title": "81x: fix SiPixelAli PCL update logic", 
                     "url": "https://github.com/cms-sw/cmssw/pull/15385", 
@@ -1100,6 +1091,24 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": true, 
                     "author_login": "cms-btv-pog"
+                }, 
+                {
+                    "hash": "fc89adcabde09fd2c7c92caec109e58d7db5cb55", 
+                    "title": "Add possibility to weigh pixel hits in QuickTrackAssociatorByHits", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15371", 
+                    "number": "15371", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": true, 
+                    "author_login": "makortel"
+                }, 
+                {
+                    "hash": "aec6c08beb53945404d66a9d940ad1eba51ec568", 
+                    "title": "Extended o2o for81x", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15243", 
+                    "number": "15243", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": true, 
+                    "author_login": "kkotov"
                 }
             ], 
             "fwlite": []
