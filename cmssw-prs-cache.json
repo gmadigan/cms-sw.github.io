@@ -14720,6 +14720,13 @@
     "title": "80x: fix SiPixelAli PCL update logic", 
     "user_ref": "80X_fixSiPixelAliLogic"
   }, 
+  "15398": {
+    "author": "degano", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "d0cb0ccbc6c4fb6b61547d68e055610bdb25f062", 
+    "title": "change das_client.py to das_client in cmsDriver", 
+    "user_ref": "fix_das_client_80X"
+  }, 
   "15399": {
     "author": "degano", 
     "branch": "CMSSW_7_6_X", 

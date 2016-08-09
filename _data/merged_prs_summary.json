@@ -13131,6 +13131,15 @@
                         "author_login": "boudoul"
                     }, 
                     {
+                        "hash": "d0cb0ccbc6c4fb6b61547d68e055610bdb25f062", 
+                        "title": "change das_client.py to das_client in cmsDriver", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15398", 
+                        "number": "15398", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "degano"
+                    }, 
+                    {
                         "hash": "2d37bdd8a8aa8f04de72505346dcd5986e30e9bc", 
                         "title": "Update muon timing analyzer 80x", 
                         "url": "https://github.com/cms-sw/cmssw/pull/15349", 
@@ -14091,6 +14100,15 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "boudoul"
+                    }, 
+                    {
+                        "hash": "d0cb0ccbc6c4fb6b61547d68e055610bdb25f062", 
+                        "title": "change das_client.py to das_client in cmsDriver", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/15398", 
+                        "number": "15398", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "degano"
                     }, 
                     {
                         "hash": "2d37bdd8a8aa8f04de72505346dcd5986e30e9bc", 
@@ -16683,11 +16701,11 @@
                     {
                         "done": false, 
                         "arch": "slc6_amd64_gcc530", 
-                        "passed": true, 
+                        "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.DEVEL-tue-11/CMSSW_8_1_DEVEL_X_2016-08-09-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 284, 
-                            "num_failed": 0
+                            "num_passed": 344, 
+                            "num_failed": 1
                         }
                     }
                 ], 
@@ -19171,8 +19189,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.THREADED-tue-11/CMSSW_8_1_THREADED_X_2016-08-09-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 994, 
-                            "num_failed": 16
+                            "num_passed": 0, 
+                            "num_failed": 1
                         }
                     }
                 ], 
