@@ -14468,6 +14468,13 @@
     "title": "New memory option in runTheMatrix (backport from #15149)", 
     "user_ref": "from-CMSSW_8_0_X_memopt"
   }, 
+  "15325": {
+    "author": "dildick", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "cfadbb95b45ea1bb5885346c8de482f30c73668e", 
+    "title": "Don't produce GEMCoPadDigi in 2016 WFs", 
+    "user_ref": "from-CMSSW_8_1_0_pre9-stop-produce-gem-copad-digi-2016"
+  }, 
   "15327": {
     "author": "cms-tsg-storm", 
     "branch": "CMSSW_8_1_X", 
