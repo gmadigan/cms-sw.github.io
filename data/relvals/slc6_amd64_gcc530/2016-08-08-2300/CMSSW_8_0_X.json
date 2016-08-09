@@ -2301,6 +2301,33 @@
     },
     {
         "exitcode": 0,
+        "id": "4.71",
+        "name": "RunMinBias2012D+RunMinBias2012D+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 80
+            },
+            {
+                "errors": 343,
+                "status": "PASSED",
+                "warnings": 1128
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.72",
         "name": "RunMu2012D+RunMu2012D+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
         "steps": [
@@ -5912,6 +5939,33 @@
     },
     {
         "exitcode": 0,
+        "id": "302.0",
+        "name": "Pyquen_ZeemumuJets_pt10_2760GeV+Pyquen_ZeemumuJets_pt10_2760GeV+DIGIHIMIX+RECOHIMIX+HARVESTHI",
+        "steps": [
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 67
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 478,
+                "status": "PASSED",
+                "warnings": 77
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 10
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "503.0",
         "name": "MinBias_13TeV_pythia8+MinBias_13TeV_pythia8+HARVESTGEN",
         "steps": [
@@ -6789,6 +6843,38 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 12
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1311.0",
+        "name": "MinBias_13+MinBias_13INPUT+DIGIUP15+RECOMINUP15+HARVESTMINUP15+ALCAMINUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 135
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 255
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 13
             }
         ]
     },

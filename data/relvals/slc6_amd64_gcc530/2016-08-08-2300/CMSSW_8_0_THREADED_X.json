@@ -5234,6 +5234,33 @@
     },
     {
         "exitcode": 0,
+        "id": "134.99601",
+        "name": "RunJetHT2015HLHS+RunJetHT2015HLHS+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 259
+            },
+            {
+                "errors": 937,
+                "status": "PASSED",
+                "warnings": 6116
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.99602",
         "name": "RunZeroBias2015HLHS+RunZeroBias2015HLHS+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
         "steps": [
@@ -5601,6 +5628,33 @@
     },
     {
         "exitcode": 0,
+        "id": "136.724",
+        "name": "RunJetHT2016B+RunJetHT2016B+HLTDR2_2016+RECODR2_2016reHLT_skimJetHT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 16722
+            },
+            {
+                "errors": 677,
+                "status": "PASSED",
+                "warnings": 3635
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "136.725",
         "name": "RunMET2016B+RunMET2016B+HLTDR2_2016+RECODR2_2016reHLT+HARVESTDR2",
         "steps": [
@@ -5807,6 +5861,33 @@
                 "errors": 324,
                 "status": "PASSED",
                 "warnings": 5197
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "136.734",
+        "name": "RunMuOnia2016B+RunMuOnia2016B+HLTDR2_2016+RECODR2_2016reHLT_skimMuOnia+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 10981
+            },
+            {
+                "errors": 442,
+                "status": "PASSED",
+                "warnings": 3165
             },
             {
                 "errors": 0,
