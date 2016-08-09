@@ -1339,6 +1339,15 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "kkotov"
+                }, 
+                {
+                    "hash": "b5999f4145b5c6faf4f968034d243a38086fca3e", 
+                    "title": "Run2-hcx87 Fix a bug for Hcal geometry which affeted Phase2 operation", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15364", 
+                    "number": "15364", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "bsunanda"
                 }
             ], 
             "fwlite": []

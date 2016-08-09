@@ -14608,6 +14608,13 @@
     "title": "remove HcalCovarianceMatrix object entirely", 
     "user_ref": "HcalRemoveCovarianceObject"
   }, 
+  "15364": {
+    "author": "bsunanda", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "b5999f4145b5c6faf4f968034d243a38086fca3e", 
+    "title": "Run2-hcx87 Fix a bug for Hcal geometry which affeted Phase2 operation", 
+    "user_ref": "Run2-hcx87"
+  }, 
   "15365": {
     "author": "cms-sw", 
     "branch": "CMSSW_8_0_X", 

@@ -1361,8 +1361,8 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.CLANG-tue-11/CMSSW_8_1_CLANG_X_2016-08-09-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 605, 
-                        "num_failed": 15
+                        "num_passed": 657, 
+                        "num_failed": 16
                     }
                 }
             ], 
@@ -1462,6 +1462,15 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "cms-btv-pog"
+                }, 
+                {
+                    "hash": "b5999f4145b5c6faf4f968034d243a38086fca3e", 
+                    "title": "Run2-hcx87 Fix a bug for Hcal geometry which affeted Phase2 operation", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15364", 
+                    "number": "15364", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "bsunanda"
                 }
             ], 
             "fwlite": []
