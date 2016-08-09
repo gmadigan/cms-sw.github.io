@@ -1,1 +1,2 @@
-Timestamp WorkflowId
+Timestamp WorkflowId PeakValueRss2 PeakValueVsize2 TotalJobCPU2 TotalJobTime2
+1470776400.0 134.802 0 0 0 0
