@@ -3141,12 +3141,12 @@
             "comp_baseline_state": "ok", 
             "builds": [], 
             "compared_tags": "CMSSW_7_4_9_patch1-->CMSSW_7_4_X_2016-07-31-0000", 
-            "valgrind": "found", 
+            "valgrind": "inprogress", 
             "utests": [], 
             "dqm_tests": "found", 
             "igprof": "not-found", 
             "relvals": [], 
-            "static_checks": "slc6_amd64_gcc491:reports/modules2statics-filter1.txt\n", 
+            "static_checks": "inprogress", 
             "cmsdistTags": {
                 "slc6_amd64_gcc491": "IB/CMSSW_7_4_X_2016-07-31-0000/slc6_amd64_gcc491"
             }, 
@@ -4967,7 +4967,7 @@
                     "author_login": "gsafronov"
                 }
             ], 
-            "hlt_tests": "found"
+            "hlt_tests": "inprogress"
         }, 
         {
             "fwlite": [
@@ -5043,7 +5043,17 @@
             "hlt_tests": "found"
         }, 
         {
-            "fwlite": [], 
+            "fwlite": [
+                {
+                    "arch": "slc6_amd64_gcc491", 
+                    "passed": "error", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc491/www/tue/7.4-tue-23/CMSSW_7_4_X_2016-08-09-2300/new_FWLITE/logAnalysis.pkl", 
+                    "details": {
+                        "linkError": 27, 
+                        "compError": 2
+                    }
+                }
+            ], 
             "addons": [], 
             "comp_baseline_state": "ok", 
             "builds": [
@@ -5055,7 +5065,7 @@
                 }
             ], 
             "compared_tags": "CMSSW_7_4_X_2016-08-07-0000-->CMSSW_7_4_X_2016-08-09-2300", 
-            "valgrind": "inprogress", 
+            "valgrind": "found", 
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc491", 
@@ -5066,7 +5076,18 @@
             ], 
             "dqm_tests": "inprogress", 
             "igprof": "not-found", 
-            "relvals": [], 
+            "relvals": [
+                {
+                    "done": false, 
+                    "arch": "slc6_amd64_gcc491", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc491/www/tue/7.4-tue-23/CMSSW_7_4_X_2016-08-09-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 0, 
+                        "num_failed": 4
+                    }
+                }
+            ], 
             "static_checks": "inprogress", 
             "cmsdistTags": {
                 "slc6_amd64_gcc491": "IB/CMSSW_7_4_X_2016-08-07-0000/slc6_amd64_gcc491"

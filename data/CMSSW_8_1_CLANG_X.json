@@ -8,7 +8,7 @@
             "builds": [], 
             "valgrind": "not-found", 
             "compared_tags": "CMSSW_8_1_CLANG_X_2016-07-31-0000-->CMSSW_8_1_CLANG_X_2016-07-31-1100", 
-            "dqm_tests": "found", 
+            "dqm_tests": "inprogress", 
             "utests": [], 
             "cmsdistTags": {
                 "slc6_amd64_gcc530": "ERR/CMSSW_8_1_CLANG_X_2016-07-31-1100/slc6_amd64_gcc530"
