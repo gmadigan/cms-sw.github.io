@@ -2831,6 +2831,40 @@
     },
     {
         "exitcode": 0,
+        "id": "5.2",
+        "name": "SingleMuPt10+SingleMuPt10FS+HARVESTFS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 328
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 5
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "5.3",
+        "name": "SingleMuPt100+SingleMuPt100FS+HARVESTFS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 424
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 5
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "5.4",
         "name": "ZEE+ZEEFS+HARVESTFS",
         "steps": [
@@ -2838,6 +2872,23 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 256
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 5
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "5.5",
+        "name": "ZTT+ZTTFS+HARVESTFS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 306
             },
             {
                 "errors": 6,
@@ -4331,6 +4382,30 @@
     },
     {
         "exitcode": 0,
+        "id": "123.3",
+        "name": "SingleMuPt1+SingleMuPt1FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 229
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "124.1",
+        "name": "SinglePiPt1+SinglePiPt1FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 204
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "124.2",
         "name": "ZTT+ZTTFS",
         "steps": [
@@ -4338,6 +4413,42 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 366
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "124.4",
+        "name": "SinglePiPt10+SinglePiPt10FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 418
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "124.5",
+        "name": "SinglePiPt100+SinglePiPt100FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 258
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "124.6",
+        "name": "SingleGammaFlatPt10To10+SingleGammaFlatPt10To10FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 247
             }
         ]
     },
@@ -6833,6 +6944,28 @@
     },
     {
         "exitcode": 0,
+        "id": "523.0",
+        "name": "TTbar012Jets_NLO_Mad_13TeV_py8_Evt+TTbar012Jets_5f_NLO_FXFX_Madgraph_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_aMCatNLO_FXFX_5f_max2j_max1p_LHE_pythia8_evtgen+HARVESTGEN2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 17
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 85
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "524.0",
         "name": "VHToHtt_NLO_Pow_13TeV_py8_Ta+VHToH_Pow_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_Htt_powhegEmissionVeto_pythia8_tauola+HARVESTGEN2",
         "steps": [
@@ -7028,6 +7161,28 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 60
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "551.0",
+        "name": "TTbar012Jets_NLO_Mad_13TeV_py8+TTbar012Jets_5f_NLO_FXFX_Madgraph_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_aMCatNLO_FXFX_5f_max2j_max1p_LHE_pythia8+HARVESTGEN2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 63
             },
             {
                 "errors": 0,
