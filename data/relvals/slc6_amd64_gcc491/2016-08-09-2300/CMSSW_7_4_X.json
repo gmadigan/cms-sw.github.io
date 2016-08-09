@@ -1,0 +1,77 @@
+[
+    {
+        "exitcode": 1,
+        "id": "134.802",
+        "name": "RunDoubleEG2015C+RunDoubleEG2015C+HLTDR225ns+RECODR225nsreHLT+HARVESTDR2reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "DAS_ERROR",
+                "warnings": 0
+            },
+            {
+                "status": "NOTRUN"
+            },
+            {
+                "status": "NOTRUN"
+            },
+            {
+                "status": "NOTRUN"
+            }
+        ]
+    },
+    {
+        "exitcode": 256,
+        "id": "25402.0",
+        "name": "FS_TTbar_13_PU25+FS_TTbar_13_PU25+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "FAILED",
+                "warnings": 0
+            },
+            {
+                "status": "NOTRUN"
+            },
+            {
+                "status": "NOTRUN"
+            }
+        ]
+    },
+    {
+        "exitcode": 256,
+        "id": "25407.0",
+        "name": "FS_NuGun_UP15_PU25+FS_NuGun_UP15_PU25+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "FAILED",
+                "warnings": 0
+            },
+            {
+                "status": "NOTRUN"
+            },
+            {
+                "status": "NOTRUN"
+            }
+        ]
+    },
+    {
+        "exitcode": 256,
+        "id": "25408.0",
+        "name": "FS_SMS-T1tttt_mGl-1500_mLSP-100_13_PU25+FS_SMS-T1tttt_mGl-1500_mLSP-100_13_PU25+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "FAILED",
+                "warnings": 0
+            },
+            {
+                "status": "NOTRUN"
+            },
+            {
+                "status": "NOTRUN"
+            }
+        ]
+    }
+]
