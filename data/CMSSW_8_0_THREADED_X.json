@@ -242,7 +242,44 @@
             "release_name": "CMSSW_8_0_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "2d37bdd8a8aa8f04de72505346dcd5986e30e9bc", 
+                    "title": "Update muon timing analyzer 80x", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15349", 
+                    "number": "15349", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "jalimena"
+                }, 
+                {
+                    "hash": "3390830088d46317af844f903f48d6e15b3d968f", 
+                    "title": "dqm plot, pixel endcap roc occupancy in 80x", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15236", 
+                    "number": "15236", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "gouskos"
+                }, 
+                {
+                    "hash": "77d408a29245d77247ec7d3fe68ff3063e09b4f4", 
+                    "title": "CTPPS: directory rename Totem -> CTPPS (back-port of #15311)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15317", 
+                    "number": "15317", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "CTPPS"
+                }, 
+                {
+                    "hash": "d0816c53668a99bb3474c3ac500aba390ecb8fe1", 
+                    "title": "protect RawTask::_process from processing bad HcalHTRData, backport to 80x", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15391", 
+                    "number": "15391", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "dan131riley"
+                }
+            ], 
             "fwlite": []
         }
     ]

@@ -14174,6 +14174,13 @@
     "title": "Fixing phase-I Tracker Alignment for change in geometry in PR #14726", 
     "user_ref": "fixPhaseIAligments_PR14726"
   }, 
+  "15236": {
+    "author": "gouskos", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "3390830088d46317af844f903f48d6e15b3d968f", 
+    "title": "dqm plot, pixel endcap roc occupancy in 80x", 
+    "user_ref": "pix-endcap-roc-80x"
+  }, 
   "15237": {
     "author": "gouskos", 
     "branch": "CMSSW_8_1_X", 
@@ -14454,6 +14461,13 @@
     "title": "CTPPS: directory rename Totem -> CTPPS", 
     "user_ref": "ctpps_directory_rename"
   }, 
+  "15317": {
+    "author": "CTPPS", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "77d408a29245d77247ec7d3fe68ff3063e09b4f4", 
+    "title": "CTPPS: directory rename Totem -> CTPPS (back-port of #15311)", 
+    "user_ref": "ctpps_directory_rename_8_0_X"
+  }, 
   "15318": {
     "author": "VinInn", 
     "branch": "CMSSW_8_1_X", 
@@ -14580,6 +14594,13 @@
     "title": "Update muon timing analyzer 81x", 
     "user_ref": "UpdateMuonTimingAnalyzer81X"
   }, 
+  "15349": {
+    "author": "jalimena", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "2d37bdd8a8aa8f04de72505346dcd5986e30e9bc", 
+    "title": "Update muon timing analyzer 80x", 
+    "user_ref": "UpdateMuonTimingAnalyzer80X"
+  }, 
   "15352": {
     "author": "bsunanda", 
     "branch": "CMSSW_8_1_X", 
@@ -14677,6 +14698,13 @@
     "hash": "c8fbecdc2f5bea5052076b093d26cd9590398606", 
     "title": "Replacing unreliable array initialization in SiPixelTemplateReco.cc", 
     "user_ref": "fix_staticAnaWarns"
+  }, 
+  "15391": {
+    "author": "dan131riley", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "d0816c53668a99bb3474c3ac500aba390ecb8fe1", 
+    "title": "protect RawTask::_process from processing bad HcalHTRData, backport to 80x", 
+    "user_ref": "HcalTasks-rawtask-bad-event-protection-80x"
   }, 
   "1542": {
     "author": "Dr15Jones", 
