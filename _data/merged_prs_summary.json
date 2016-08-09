@@ -14262,66 +14262,25 @@
                 "fwlite": []
             }, 
             {
-                "addons": [
-                    {
-                        "arch": "slc6_amd64_gcc530", 
-                        "passed": true, 
-                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.CLANG-tue-11/CMSSW_8_1_CLANG_X_2016-08-02-1100/addOnTests.log", 
-                        "details": {}
-                    }
-                ], 
+                "addons": [], 
                 "comp_baseline_state": "errors", 
-                "builds": [
-                    {
-                        "arch": "slc6_amd64_gcc530", 
-                        "passed": "error", 
-                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.CLANG-tue-11/CMSSW_8_1_CLANG_X_2016-08-02-1100/new/logAnalysis.pkl", 
-                        "details": {
-                            "compWarning": 2913, 
-                            "miscError": 1, 
-                            "ignoreWarning": 1676, 
-                            "linkError": 3
-                        }
-                    }
-                ], 
+                "builds": [], 
                 "valgrind": "not-found", 
                 "compared_tags": "CMSSW_8_1_CLANG_X_2016-08-01-2300-->CMSSW_8_1_CLANG_X_2016-08-02-1100", 
                 "dqm_tests": "found", 
-                "utests": [
-                    {
-                        "arch": "slc6_amd64_gcc530", 
-                        "passed": "failed", 
-                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.CLANG-tue-11/CMSSW_8_1_CLANG_X_2016-08-02-1100/unitTests-summary.log", 
-                        "details": {
-                            "num_fails": "7"
-                        }
-                    }
-                ], 
+                "utests": [], 
                 "cmsdistTags": {
                     "slc6_amd64_gcc530": "ERR/CMSSW_8_1_CLANG_X_2016-08-02-1100/slc6_amd64_gcc530"
                 }, 
                 "igprof": "not-found", 
-                "relvals": [
-                    {
-                        "done": true, 
-                        "arch": "slc6_amd64_gcc530", 
-                        "passed": false, 
-                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.CLANG-tue-11/CMSSW_8_1_CLANG_X_2016-08-02-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
-                        "details": {
-                            "num_passed": 1426, 
-                            "num_failed": 18
-                        }
-                    }
-                ], 
+                "relvals": [], 
                 "static_checks": "not-found", 
                 "isIB": true, 
                 "hlt_tests": "not-found", 
                 "comp_baseline": "not-found", 
                 "inProgress": false, 
                 "release_name": "CMSSW_8_1_CLANG_X_2016-08-02-1100", 
-                "tests_archs": [
-                    "slc6_amd64_gcc530"
-                ], 
+                "tests_archs": [], 
                 "RVExceptions": null, 
                 "merged_prs": [], 
                 "fwlite": []
@@ -16704,8 +16663,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.DEVEL-tue-11/CMSSW_8_1_DEVEL_X_2016-08-09-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1018, 
-                            "num_failed": 7
+                            "num_passed": 1175, 
+                            "num_failed": 11
                         }
                     }
                 ], 
@@ -19189,7 +19148,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1.THREADED-tue-11/CMSSW_8_1_THREADED_X_2016-08-09-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1331, 
+                            "num_passed": 1376, 
                             "num_failed": 20
                         }
                     }
