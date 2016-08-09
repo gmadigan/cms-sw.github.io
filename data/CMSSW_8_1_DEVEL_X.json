@@ -1057,6 +1057,15 @@
             "RVExceptions": null, 
             "merged_prs": [
                 {
+                    "hash": "9160176bfe86fe0ccfdea30355d5495c26e6ba54", 
+                    "title": "GeneratorInterface/LHEInterface : formatting fix for statements flagged by gcc 6.0 indentation warning", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15065", 
+                    "number": "15065", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": true, 
+                    "author_login": "gartung"
+                }, 
+                {
                     "hash": "73749575bf4b0c38a87c907aa828477bbb1bc988", 
                     "title": "81x: fix SiPixelAli PCL update logic", 
                     "url": "https://github.com/cms-sw/cmssw/pull/15385", 

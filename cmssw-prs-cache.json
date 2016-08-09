@@ -13341,6 +13341,13 @@
     "title": "PR 80X Addendum to Fix sporadic crashes in HLT when Seeding with correlations.", 
     "user_ref": "pr80x-fix-L1TSeed-crashHLT-correlations"
   }, 
+  "15065": {
+    "author": "gartung", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "9160176bfe86fe0ccfdea30355d5495c26e6ba54", 
+    "title": "GeneratorInterface/LHEInterface : formatting fix for statements flagged by gcc 6.0 indentation warning", 
+    "user_ref": "GeneratorInterface-LHEInterface-fix-indent-not-guard"
+  }, 
   "15066": {
     "author": "gartung", 
     "branch": "CMSSW_8_1_X", 
